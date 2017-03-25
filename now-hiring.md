@@ -5,16 +5,16 @@ title: We're Hiring - View Open Positions
 
 # Join Our Team
 
-If you're an amazing systems engineer, developer, or designer, we want
-you to apply to join Action Verb.
+If you're an amazing systems engineer, developer, or designer, **we want
+you to apply to join Action Verb.**
 
 We will succeeed as a company if and only if we find and hire the best
 engineers.  We consider all positions to be engineering roles and expect
 that all applicants know how to code.
 
 Most of our best applicants have Computer Science (or similar) degrees
-from a well-regarded university.  Our best applicants also tend
-to have at least 3-5 years experience being in a position with direct
+from a well-regarded university.  **Our best applicants also tend
+to have at least 3-5 years experience** in a position with direct
 responsibility for designing, developing, or supporting a production
 application with a large userbase.
 
@@ -35,7 +35,7 @@ we expect our staff to hold several roles in the company.
 However, we still make hiring decisions and conduct interviews
 based on your initial role.
 
-We have three roles that we are currently accepting applications for new team members:
+We have three roles that are currently accepting applications for new team members:
 
  * <a
  href="http://actionverb.applytojob.com/apply/S0OYVR/HolacracyPowered-BrickFTP-Seeks-FullTime-Designer-For-Our-Web-Applications-Reactjs-Marketing-Websites-And-Corporate-Identity" target="_blank">Designer</a> &ndash; Accountable for the User Experience for our Web Applications (React.js), Marketing Websites, and Company Identity
@@ -43,3 +43,11 @@ We have three roles that we are currently accepting applications for new team me
  * <a href="http://actionverb.applytojob.com/apply/b9YTLViLIw/HolacracyPowered-BrickFTP-Seeks-FullTime-SupportSales-Engineer-For-Its-Cloud-Storage-Products" target="_blank">Sales and Support</a> &ndash; Accountable for interacting directly with customers, and performing sales and support duties
 
 Click each opening to be taken to our resume submission portal.
+
+
+## Learn More About Working at Action Verb
+
+Our [Core Beliefs page](/core-beliefs) tells you more about our values
+and beliefs as a company.  And [our Holacracy practice page](/holacracy)
+explains a bit about Holacracy and why we think it makes Action Verb a
+great place to work.
