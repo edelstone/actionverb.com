@@ -14,7 +14,7 @@ we expect our staff to hold several roles in the company.
 However, we still make hiring decisions and conduct interviews
 based on your initial role.
 
-We have three roles that we hire into for new team members:
+We have three roles that we are currently accepting applications for new team members:
 
  * <a
  href="http://actionverb.applytojob.com/apply/S0OYVR/HolacracyPowered-BrickFTP-Seeks-FullTime-Designer-For-Our-Web-Applications-Reactjs-Marketing-Websites-And-Corporate-Identity" target="_blank">Designer</a> &ndash; Accountable for the User Experience for our Web Applications (React.js), Marketing Websites, and Company Identity
