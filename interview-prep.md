@@ -31,7 +31,7 @@ of your technical knowledge.
 Our interview is very fast paced and you will be expected to answer
 questions off the top of your head, without pausing to look anything up.
 
-**Our standards for this process are extremely high and only about 5% of
+**Our standards for this process are extremely high and only about 10% of
 interviewees will make it to the end of the phone interview process.**
 
 We end interviews as soon as it becomes clear that the decision will be
