@@ -25,8 +25,8 @@ We've been able to achieve the rare combination of high double-digit
 annual growth and industry leading profitability.
 
 We do it by aggressively recruiting the absolute best and brightest
-engineers and structuring our company in a way that makes them very
-happy here.
+engineers and structuring our company in a way that makes them want to
+work here forever.
 
 It's easy to say, but exceptionally hard to execute.  Here's how we do
 it.
@@ -57,7 +57,13 @@ We also practice Open Book Management, meaning that we share the exact
 details of our Balance Sheet and P&L Statement with our entire team on a
 regular basis.
 
+[Click here to learn more about our Holacracy practice.](/holacracy)
 
+
+## We're Hiring
+
+Does working at Action Verb sound like it could be for you?  [Read our
+Job Postings.](/now-hiring)
 
 
 ## Contact Us
