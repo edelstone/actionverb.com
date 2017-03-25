@@ -1,15 +1,22 @@
 ---
 layout: default
-title: Preparing for your Job Interview at Action Verb
+title: Preparing for your Interview at Action Verb
 ---
 
-# Preparing for your Job Interview at Action Verb
+# Preparing for your Interview at Action Verb
+
+*This page is meant for folks who have already been granted a telephone
+interview with Action Verb.  If you haven't applied, check out our
+[Hiring](/now-hiring) page.*
+
+
+## Our Interview Process
 
 Recruiting and hiring is the most important thing we do.  Our success
 depends on Action Verb finding and hiring people who are truly
 A-players.
 
-To that end, **we've built a proprietary hiring process that is very
+To that end, **we've built a proprietary interview process that is very
 different from what you may be used to.**
 
 Our written application asks for very specific topics to be covered in
@@ -35,7 +42,9 @@ questions off the top of your head, without pausing to look anything up.
 interviewees will make it to the end of the phone interview process.**
 
 We end interviews as soon as it becomes clear that the decision will be
-a no-hire.
+a no-hire.  If this happens to you, please do not take it personally.
+It is not necessarily a judgement about you, but rather a judgement of
+how well you fit with our needs.
 
 
 ## Interview Tips
@@ -43,18 +52,23 @@ a no-hire.
 Here are a few tips that should give you the best chance to succeed in
 our telephone interview process:
 
- * Our first round interview attempts to figure out where your current level of knowledge sits with regard to the types of issues we commonly see in our support department. Knowledge is not the only thing we hire by, but it's the easiest thing to test quickly. We do not expect that you will know the answer to every question. If you can't formulate a great answer to a question, just say so, and we'll move on quickly. We have a limited period of time, and would rather spend as much of it as possible on things that you do know rather than dwelling on things that you don't know.
+ * Our interview tests your knowledge of a variety of different subjects. Knowledge is not the only thing we hire by, but it's the easiest thing to test quickly. We do not expect that you will know the answer to every question. If you can't formulate a great answer to a question, just say so, and we'll move on quickly. We have a limited period of time, and would rather spend as much of it as possible on things that you do know rather than dwelling on things that you don't know.
 
- * We adapt our questioning in real time to challenge you on your answers. We also jump around from topic to topic very abruptly. Don't sweat this.  Just roll with the punches and answer the followups as best as you can.  If a followup causes you to want to change an earlier answer, by all means say something!
+ * We adapt our questioning in real time to challenge you on your answers. We also jump around from topic to topic very abruptly. Just roll with the punches and answer the followups as best as you can.  If a followup causes you to want to change an earlier answer, by all means do so.
 
- * Our interview also includes "ideation" or "brainstorming" type questions where you will be asked to craft solutions to very difficult or impossible problems. We hate it when people approach these problems by telling us why challenge is impossible or unfair. On these, we want to hear your best creative ideas, even if you know that they fall short of the ideal. It's actually best if you can explain exactly why your best ideas fall short of the ideal.
+ * Our interview also includes "ideation" or "brainstorming" type questions where you will be asked to craft solutions to very difficult or impossible problems. On these, we want to hear your best creative ideas, even if you know that they fall short of the ideal. It's actually best if you can explain exactly why your best ideas fall short of the ideal.
 
- * The last type of question we have are role playing assignments where we give you an issue to troubleshoot (as a roleplay) and see how you would go about solving it. For these, we will continually change the circumstances to continue to challenge you. Just keep rolling with the scenario as it evolves and continue to respond as best as you can. Feel free to make assumptions about the question being asked, as long as you state that you are doing so.
+ * We also enjoy role playing questions where we give you an issue to troubleshoot (as a roleplay) and see how you would go about solving it. For these, we will continually change the circumstances to continue to challenge you. Just keep rolling with the scenario as it evolves and continue to respond as best as you can. Feel free to make assumptions about the question being asked, as long as you state that you are doing so.
 
  * We do not give a whole lot of real-time feedback about how the interview is going. But use this rule of thumb -- if you're still on the phone with us, it's going well. We have no interest in continuing to talk to someone that we know we won't hire, so don't ever get discouraged or let yourself think the interview is going poorly. If we are jumping around from topic to topic randomly, it could be for any reason at all. Maybe we loved your answer, maybe we hated your answer, and maybe we just decided to move on. Again, if we're still talking to you, it's going well.
 
- * There is no live coding or live support element to this interview, and there is nothing you need to study ahead of time. Just show up and be prepared to share the knowledge that you have. The technical/challenge part of this interview lasts between 5 and 45 minutes, depending on how fast you go.
+ * There is no live coding element to our interviews, and there is nothing you need to study ahead of time. Just show up and be prepared to share the knowledge that you have. The technical/challenge part of this interview lasts between 5 and 45 minutes, depending on how fast you go.
 
- If you make it through to the end, you will then have the opportunity to
- ask all the questions you'd like about the company, our culture, etc.,
- and there's plenty of more opportunity to learn about that farther in the process.
+If you make it through to the end, you will then have the opportunity to
+ask all the questions you'd like about the company and our culture and
+unique way of working.
+
+In fact, if you are offered a position, you will have the opportunity to speak
+to everyone on the team before you'll have to make a decision.
+
+We look forward to speaking to you!

@@ -63,10 +63,11 @@ business as if it were their own.
 [Learn more about Open Book Management.](/open-book-management)
 
 
-## We're Hiring
+## Working at Action Verb
 
 Does working at Action Verb sound like it could be for you?
-[Learn about joining the Action Verb team.](/now-hiring)
+
+[Learn about Working at Action Verb.](/working-at-action-verb)
 
 
 ## Contact Us

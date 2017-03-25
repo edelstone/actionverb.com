@@ -5,6 +5,8 @@ title: Our Core Beliefs
 
 # Our Core Beliefs
 
+We are an opinionated company.  This is what we believe.
+
 
 ## On Product
 

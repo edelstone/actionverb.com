@@ -51,4 +51,5 @@ the data they need to make the best decisions possible.
 ## We're Hiring
 
 Does working at Action Verb sound like it could be for you?
+
 [Learn about joining the Action Verb team.](/now-hiring)
