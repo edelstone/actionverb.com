@@ -13,7 +13,7 @@ engineers.  We consider all positions to be engineering roles and expect
 that all applicants know how to code.
 
 Most of our best applicants have Computer Science (or similar) degrees
-from a well-regarded 4-year university.  Our best applicants also tend
+from a well-regarded university.  Our best applicants also tend
 to have at least 3-5 years experience being in a position with direct
 responsibility for designing, developing, or supporting a production
 application with a large userbase.
