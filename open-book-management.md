@@ -43,8 +43,8 @@ Zingerman's.
 We see Open Book Management as a key addition to our Holacracy practice
 that contributes to the success of our unique model at Action Verb.
 
-Since we distribute real decision making authority to every person in
-our organization, we'd better make sure that every single employee has
+Since we [distribute real decision making authority to every person in
+our organization](/holacracy), we'd better make sure that every single employee has
 the data they need to make the best decisions possible.
 
 

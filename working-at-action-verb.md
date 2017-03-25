@@ -21,7 +21,8 @@ processes for changing those roles and responsibilities in real time.
 
 Even though Holacracy is a lot to learn, we have a great onboarding
 process and the rest of our team will guide you through your first few
-months.
+months.  You'll also have the opportunity to attend a weeklong official
+Holacracy training event at our expense.
 
 
 ## Work-Life Balance
@@ -35,7 +36,9 @@ paid time off days intended to be used for vacations.  Go have fun.
 Don't work all the time.
 
 But in the time that they are in and working, our team members work hard and accomplish
-a ton for the company.
+a ton for the company.  And our team members typically do everything
+they can to ensure that they hours they work are in line with the
+company's needs.
 
 
 ## Pay
@@ -59,6 +62,16 @@ the healthcare plan.  We want your family to be healthy.
 
 We expect to add 401(k) and employee stock ownership options in the
 future.
+
+
+## In-Person Meetings (Travel)
+
+Our team spends at least 12 days together face-to-face per year at four
+quarterly meetings that are hosted all over the country.
+
+We try to do these meetings in cities that are fun to visit.  In the
+last few years, we've been to Austin, Orlando, Minneapolis, San Diego, Las
+Vegas, New York City, and Detroit.
 
 
 ## We're Hiring
