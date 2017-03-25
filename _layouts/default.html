@@ -11,8 +11,16 @@
  </head>
  <body class="{{ page.body_class }}">
   <div id="wrapper">
-   <div id="left_area">
+   <div class="left_area">
     <div class="logo"></div>
+   </div>
+   <div class="right_area">
+    <div class="inside">
+     <div id="header"></div>
+     {{ content }}
+    </div>
+   </div>
+   <div class="left_area">
     <div id="nav">
      <a href="/core-beliefs">Our Core Beliefs</a>
      <a href="/holacracy">Our Holacracy Practice</a>
@@ -22,11 +30,7 @@
      <a href="https://vaeplatform.com/" target="_blank">Vae Platform</a>
     </div>
    </div>
-   <div id="main">
-    <div class="inside">
-     <div id="header"></div>
-     {{ content }}
-    </div>
+   <div class="right_area">
     <div id="footer">
      <a href="https://brickftp.com/" target="_blank">BrickFTP</a> |
      <a href="https://vaeplatform.com/" target="_blank">Vae Platform</a> |
@@ -36,7 +40,6 @@
      Copyright &copy;2017 Action Verb LLC.  All rights reserved.
     </div>
    </div>
-   <div class="clear"></div>
   </div>
  </body>
 </html>

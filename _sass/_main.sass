@@ -100,12 +100,15 @@ a
   +breakpoint(xl)
     max-width: 1100px
   margin: auto
-  #left_area
+  .left_area
     +breakpoint(g_lg)
       float: left
+    +breakpoint(g_xl)
+      width: 460px
+    +breakpoint(xl)
+      width: 330px
     .logo
       +breakpoint(g_xl)
-        width: 460px
         height: 400px
       +breakpoint(l_xl)
         width: 330px
@@ -121,6 +124,7 @@ a
       +breakpoint(l_lg)
         padding-top: 20px
       a
+        width: 100%
         display: block
         background: #ed4422
         padding: 20px
@@ -134,7 +138,7 @@ a
           background: #333
           color: #fff
 
-  #main
+  .right_area
     margin: 20px 20px 0 20px
     +breakpoint(g_lg)
       float: right
@@ -157,6 +161,8 @@ a
         padding: 10px 20px 30px 20px
         color: #fff
         font-weight: normal
+        +breakpoint(l_md)
+          font-size: 1.5em
 
       p, pre
         margin: 1em 20px 20px 0
