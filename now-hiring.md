@@ -8,7 +8,7 @@ title: We're Hiring - View Open Positions
 If you're an amazing systems engineer, developer, or designer, **we want
 you to apply to join Action Verb.**
 
-We will succeeed as a company if and only if we find and hire the best
+We will succeed as a company if and only if we find and hire the best
 engineers.  We consider all positions to be engineering roles and expect
 that all applicants know how to code.
 
