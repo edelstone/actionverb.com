@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Secure and usable IT services delivered to fully satisfied customers.
+title: Secure and Performant Infrastructure-as-a-Service
 ---
 
 # Secure and Performant Infrastructure-as-a-Service
 
 We're Action Verb.
 
-We build Platforms and Infrastructure that IT and Engineering
-professionals can leverage to power their products and services.
+We build Platforms and Infrastructure that Engineering and Marketing
+professionals leverage to power their products and services.
 
-Our company consists of 9 full time USA-based engineers and designers,
+Our company consists of 7 full time USA-based engineers,
 as well as sales and support outposts in France, Germany, and Latin
 America.
 
