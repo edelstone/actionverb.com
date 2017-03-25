@@ -38,6 +38,11 @@ knowledge of computer science without putting them through awkward
 brainteasers.  We also believe in using role plays heavily during
 interviews.
 
+**We believe that every team member is welcome to participate in the
+hiring process.** We require a YES from every interviewer that speaks to
+a candidate and anyone on the team can become an interviewer.  We expect
+this process to result in an ever-increasing caliber of new hires.
+
 
 ## On Management
 
@@ -53,12 +58,6 @@ exactly how our finances work.** Since we distribute real decision
 making authority to every person in our organization, we’d better make
 sure that every single employee has the data they need to make the best
 decisions possible.
-
-**We believe in boldly proclaiming who we are.**  That's why we share
-these core beliefs with you.  It's also why we picked Orange and Green
-as our company colors and put a giant wrench at the top of this page.
-We see ourselves as builders and on some deep level, we like that our
-webpage reminds us of a road construction site.
 
 
 ## On Working From Home
@@ -136,6 +135,10 @@ paces every day.
 change in the world will never slow down.  It's our responsibility to
 continue to evaluate how our products compete in the marketplace and to
 evolve them to stay up to date.
+
+**We believe that talking about features often takes longer than
+building them in the first place.** We eschew long priotiziation
+meetings, and just go build things as fast as we can.
 
 **We believe that in many ways, the UX is the product.** A feature
 is no good if nobody can find it or use it.  We commit to having great

@@ -14,15 +14,15 @@ Our Engineer-based company consists of 7 full time USA-based Engineers,
 as well as sales and support outposts in France, Germany, and Latin
 America.
 
-Our infrastructure platforms are used by over 2,000 enterprises and
-SMBs, including Mozilla, Canonical, UPS, DirecTV, GoPro, Marriott, and
+**Our infrastructure platforms are used by over 2,000 enterprises and
+SMBs**, including Mozilla, Canonical, UPS, DirecTV, GoPro, Marriott, and
 more.
 
 
 ## Our Success Strategy
 
-We've been able to achieve the rare combination of high double-digit
-annual growth and industry leading profitability.
+**We've been able to achieve the rare combination of high double-digit
+annual growth and industry leading profitability.**
 
 We do it by aggressively recruiting the absolute best and brightest
 engineers and structuring our company in a way that makes them want to
@@ -44,8 +44,8 @@ look to find well rounded team members with skills in software
 engineering, design, marketing, sales, and our other needs who are
 interested in filling multiple roles within the organization.
 
-As a self-organizing team, our people have multiple roles and our role
-descriptions are regularly updated via small iterations.  As their
+**As a self-organizing team, our people have multiple roles and our role
+descriptions are regularly updated via small iterations.**  As their
 interests change and our needs change, the roles that are filled change
 dynamically over time.
 
@@ -57,8 +57,8 @@ organizations.&quot;<br />&ndash; Adam Pisoni, Yammer co-founder & CTO</div>
 
 We also practice Open Book Management, meaning that we share the exact
 details of our Balance Sheet and P&L Statement with our entire team in
-real-time, ensuring that our staff has the data they need to treat the
-business as if it were their own.
+real-time, ensuring that **our staff has the data they need to treat the
+business as if it were their own.**
 
 [Learn more about Open Book Management.](/open-book-management)
 
