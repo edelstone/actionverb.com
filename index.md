@@ -53,17 +53,20 @@ dynamically over time.
 products. Now they need to apply the same thinking to their
 organizations.&quot;<br />&ndash; Adam Pisoni, Yammer co-founder & CTO</div>
 
-We also practice Open Book Management, meaning that we share the exact
-details of our Balance Sheet and P&L Statement with our entire team on a
-regular basis.
+[Learn more about our Holacracy practice.](/holacracy)
 
-[Click here to learn more about our Holacracy practice.](/holacracy)
+We also practice Open Book Management, meaning that we share the exact
+details of our Balance Sheet and P&L Statement with our entire team in
+real-time, ensuring that our staff has the data they need to treat the
+business as if it were their own.
+
+[Learn more about Open Book Management.](/open-book-management)
 
 
 ## We're Hiring
 
-Does working at Action Verb sound like it could be for you?  [Read our
-Job Postings.](/now-hiring)
+Does working at Action Verb sound like it could be for you?
+[Learn about joining the Action Verb team.](/now-hiring)
 
 
 ## Contact Us

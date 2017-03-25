@@ -52,9 +52,10 @@ pay level of double the starting salary if you come in and absolutely crush it.
 We also offer an annual bonus depending on performance and a signing
 bonus of $2,500 for you to use to purchase a new computer.
 
-We also offer a great healthcare package for employees, and we'll pick
+We fully pay for your health insurance (exact plan details depend on
+your state of residence), and we'll pick
 up the tab for 50% of your spouse or family if they wish to also join
-the healthcare plan.
+the healthcare plan.  We want your family to be healthy.
 
 We expect to add 401(k) and employee stock ownership options in the
 future.
