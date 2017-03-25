@@ -45,13 +45,11 @@ a tool just because &quot;that's how it's done around here.&quot;
 
 ## On Open Source
 
-**We believe that open-source only works if companies give back.**  If you
-work on any open-source projects during the course of your work at
-Action Verb, you are encouraged to submit your improvements as a pull
-request back to the upstream project.  And if you build something from
-scratch while working here that’s generic and not related to our core
-products, we want you to release that on GitHub too.  We’ll also pay
-your travel costs to any conference where you can get a speaking gig.
+**We believe that open-source only works if companies give back.**  We encourage
+our engineers to contribute improvements to the open source projects we
+use.  And if one of our staff agrees to speak at a conference, we pick
+up the tab.  We encourage our staff to get out there and talk about what
+they're up to.
 
 
 ## Tell Us What You Believe
