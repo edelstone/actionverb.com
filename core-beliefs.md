@@ -39,6 +39,28 @@ brainteasers.  We also believe in using role plays heavily during
 interviews.
 
 
+## On Management
+
+**We believe that [Holacracy](/holacracy) is the best way to organize
+the management of a company.** Holacracy replaces the traditional
+management hierarchy with a new peer-to-peer "operating system" that
+increases transparency, accountability, and organizational agility.  We
+push real decision making authority down to each and every employee,
+empowering everyone to drive the business as if it were their own.
+
+**We believe in [Open Book Management](/open-book-management), which means that our staff knows
+exactly how our finances work.** Since we distribute real decision
+making authority to every person in our organization, we’d better make
+sure that every single employee has the data they need to make the best
+decisions possible.
+
+**We believe in boldly proclaiming who we are.**  That's why we share
+these core beliefs with you.  It's also why we picked Orange and Green
+as our company colors and put a giant wrench at the top of this page.
+We see ourselves as builders and on some deep level, we like that our
+webpage reminds us of a road construction site.
+
+
 ## On Working From Home
 
 **We believe that allowing and supporting 100% remote work gives us
@@ -114,6 +136,10 @@ paces every day.
 change in the world will never slow down.  It's our responsibility to
 continue to evaluate how our products compete in the marketplace and to
 evolve them to stay up to date.
+
+**We believe that in many ways, the UX is the product.** A feature
+is no good if nobody can find it or use it.  We commit to having great
+UX and design that is both beautiful and functional.
 
 
 ## On Open Source
