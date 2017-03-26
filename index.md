@@ -10,6 +10,9 @@ We're Action Verb.
 We build Platforms and Infrastructure that Engineering and Marketing
 professionals use to power their products and services.
 
+Our products include <a href="https://brickftp.com/" target="_blank">BrickFTP</a> and
+<a href="https://vaeplatform.com/" target="_blank">Vae Platform</a>.
+
 Our Engineer-based company consists of 7 full time USA-based Engineers,
 as well as sales and support outposts in France, Germany, and Latin
 America.
