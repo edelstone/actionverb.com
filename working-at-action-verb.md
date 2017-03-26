@@ -25,6 +25,13 @@ months.  You'll also have the opportunity to attend a weeklong official
 Holacracy training event at our expense.
 
 
+## Top-Tier Talent
+
+We require a unianimous agreement from all current team members before
+making a new hire.  You should feel excited about the caliber of people
+you'll be working with.
+
+
 ## Work-Life Balance
 
 Our team members work from home and choose their own hours, allowing
@@ -43,7 +50,7 @@ company's needs.
 
 ## Pay
 
-We pay a starting salary of $60-70k for Support Engineers and
+We pay a starting salary of $60-70k for Support/Sales Engineers and
 $100k for Designers or Systems Engineers.  If you currently make more
 than that, we are usually able to match your current salary.
 
@@ -59,6 +66,12 @@ We fully pay for your health insurance (exact plan details depend on
 your state of residence), and we'll pick
 up the tab for 50% of your spouse or family if they wish to also join
 the healthcare plan.  We want your family to be healthy.
+
+Our benefits are provided through TriNet, a company who represents over
+100,000 worksite employees and negotiates on our behalf with the
+insurance carriers to get you the best rates and widest coverage options.
+If you don't like the specific healthcare plan we provide for your state,
+you can upgrade or downgrade to a different plan via TriNet's portal.
 
 We expect to add 401(k) and employee stock ownership options in the
 future.
