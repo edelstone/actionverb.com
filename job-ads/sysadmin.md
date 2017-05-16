@@ -31,7 +31,7 @@ Here are some statistics about our network:
  * 25+ FTP/SFTP/FTPS logins per second
  * 100+ file transfers per second
  * 4,000 log entries per second
- * >150,000 metrics
+ * 150,000+ metrics
  * 99.9% uptime record
 
 We've been able to achieve the rare combination of high double-digit
