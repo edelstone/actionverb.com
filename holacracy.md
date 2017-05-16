@@ -43,7 +43,7 @@ change over time, via incremental changes.
 
 At a weekly Governance Meeting, everyone has the opportunity to shape
 the Roles in the company, including the Purpose of each Role and its
-Accountabilities.  If a Role grows to big to be filled by a single type
+Accountabilities.  If a Role grows too big to be filled by a single type
 of team member, it can be further differentiated into sub-Roles, much like
 how a bodily organ is made up of different types of smaller cells.
 
