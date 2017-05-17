@@ -39,7 +39,8 @@ We have two roles that are currently accepting applications for new team members
 
  * <a href="http://actionverb.applytojob.com/apply/XewrZe/" target="_blank">Systems Engineer</a> &ndash; Accountable for our Backend Systems, including APIs, Daemons, data pipelines, and desktop applications
  * <a href="http://actionverb.applytojob.com/apply/b9YTLViLIw/" target="_blank">Support/Sales Engineer</a> &ndash; Accountable for interacting directly with customers, and performing sales and support duties
- * Infrastructure/Devops Engineer &ndash; Coming Soon
+ * <a
+ href="http://actionverb.applytojob.com/apply/cFydMsuRwy/DevOpsSysadmin-Engineer" target="_blank">Infrastructure/Devops Engineer</a> &ndash; Accountable for our servers and infrastructure
 
 Click each opening to be taken to our resume submission portal.
 
