@@ -107,6 +107,9 @@ your state of residence), and we'll pick
 up the tab for 50% of your spouse or family if they wish to also join
 the healthcare plan.  We want your family to be healthy.
 
+We also offer a 401(k) and a variety of other perks that our HR provider
+is able to secure for our employees.
+
 We recognize that other companies may offer higher initial salary offers
 or signing bonuses, but at Action Verb, **we know that for our ideal
 candidate, the exact level of pay is just one criteria by which they
