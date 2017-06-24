@@ -35,14 +35,27 @@ we expect our staff to hold several roles in the company.
 However, we still make hiring decisions and conduct interviews
 based on your initial role.
 
-We have two roles that are currently accepting applications for new team members:
+We have three roles that are currently accepting applications for new team members:
+
+ * <a
+ href="http://actionverb.applytojob.com/apply/Rp1yGctWDi/B2B-SaaS-VP-Of-Marketing"
+ target="_blank">Marketing Engineer</a> &ndash; Accountable for
+ Marketing, including Paid Traffic, Conversation Rate Optimization,
+ Funnel Strategy, Lead Magnets/giveaways, etc.
 
  * <a href="http://actionverb.applytojob.com/apply/XewrZe/" target="_blank">Systems Engineer</a> &ndash; Accountable for our Backend Systems, including APIs, Daemons, data pipelines, and desktop applications
- * <a href="http://actionverb.applytojob.com/apply/b9YTLViLIw/" target="_blank">Support/Sales Engineer</a> &ndash; Accountable for interacting directly with customers, and performing sales and support duties
  * <a
  href="http://actionverb.applytojob.com/apply/cFydMsuRwy/DevOpsSysadmin-Engineer" target="_blank">Infrastructure/Devops Engineer</a> &ndash; Accountable for our servers and infrastructure
 
 Click each opening to be taken to our resume submission portal.
+
+
+### Closed Positions
+
+Not reviewing new submissions at this time, but if you'd like to submit
+your resume for review in the future:
+
+ * <a href="http://actionverb.applytojob.com/apply/b9YTLViLIw/" target="_blank">Support/Sales Engineer</a> &ndash; Accountable for interacting directly with customers, and performing sales and support duties
 
 
 ## Learn More About Working at Action Verb
