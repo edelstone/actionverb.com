@@ -1,3 +1,10 @@
+
+// Converted Variables
+
+
+// Custom Media Query Variables
+
+
 /*
 
    TYPOGRAPHY
@@ -46,7 +53,7 @@
   text-overflow: ellipsis;
 }
 
-@media (--breakpoint-not-small) {
+@media #{$breakpoint-not-small} {
   .measure-ns  {
     max-width: 30em;
   }
@@ -71,7 +78,7 @@
   }
 }
 
-@media (--breakpoint-medium) {
+@media #{$breakpoint-medium} {
   .measure-m {
     max-width: 30em;
   }
@@ -96,7 +103,7 @@
   }
 }
 
-@media (--breakpoint-large) {
+@media #{$breakpoint-large} {
   .measure-l {
     max-width: 30em;
   }

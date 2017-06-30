@@ -1,3 +1,29 @@
+
+// Converted Variables
+
+
+// Custom Media Query Variables
+
+
+/*
+
+   ASPECT RATIOS
+
+*/
+
+/* This is for fluid media that is embedded from third party sites like youtube, vimeo etc.
+ * Wrap the outer element in aspect-ratio and then extend it with the desired ratio i.e
+ * Make sure there are no height and width attributes on the embedded media.
+ * Adapted from: https://github.com/suitcss/components-flex-embed
+ *
+ * Example:
+ *
+ * <div class="aspect-ratio aspect-ratio--16x9">
+ *  <iframe class="aspect-ratio--object"></iframe>
+ * </div>
+ *
+ * */
+
 .aspect-ratio {
   height: 0;
   position: relative;
@@ -31,7 +57,7 @@
     z-index: 100;
 }
 
-@media (--breakpoint-not-small){
+@media #{$breakpoint-not-small}{
     .aspect-ratio-ns {
       height: 0;
       position: relative;
@@ -59,7 +85,7 @@
     }
 }
 
-@media (--breakpoint-medium){
+@media #{$breakpoint-medium}{
     .aspect-ratio-m {
       height: 0;
       position: relative;
@@ -87,7 +113,7 @@
     }
 }
 
-@media (--breakpoint-large){
+@media #{$breakpoint-large}{
     .aspect-ratio-l {
       height: 0;
       position: relative;

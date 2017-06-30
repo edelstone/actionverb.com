@@ -1,3 +1,31 @@
+
+// Converted Variables
+
+
+// Custom Media Query Variables
+
+
+/*
+
+    BACKGROUND POSITION
+
+    Base:
+    bg = background
+
+    Modifiers:
+    -center = center center
+    -top = top center
+    -right = center right
+    -bottom = bottom center
+    -left = center left
+
+    Media Query Extensions:
+      -ns = not-small
+      -m  = medium
+      -l  = large
+
+ */
+
 .bg-center { 
   background-repeat: no-repeat;
   background-position: center center; 
@@ -23,7 +51,7 @@
   background-position: center left;   
 }
 
-@media (--breakpoint-not-small) {
+@media #{$breakpoint-not-small} {
   .bg-center-ns { 
     background-repeat: no-repeat;
     background-position: center center; 
@@ -50,7 +78,7 @@
   }
 }
 
-@media (--breakpoint-medium) {
+@media #{$breakpoint-medium} {
   .bg-center-m { 
     background-repeat: no-repeat;
     background-position: center center; 
@@ -77,7 +105,7 @@
   }
 }
 
-@media (--breakpoint-large) {
+@media #{$breakpoint-large} {
   .bg-center-l { 
     background-repeat: no-repeat;
     background-position: center center; 

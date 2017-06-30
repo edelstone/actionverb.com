@@ -1,3 +1,10 @@
+
+// Converted Variables
+
+
+// Custom Media Query Variables
+
+
 /*
 
     OVERFLOW
@@ -24,7 +31,7 @@
 .overflow-y-scroll { overflow-y: scroll; }
 .overflow-y-auto { overflow-y: auto; }
 
-@media (--breakpoint-not-small) {
+@media #{$breakpoint-not-small} {
   .overflow-visible-ns { overflow: visible; }
   .overflow-hidden-ns { overflow: hidden; }
   .overflow-scroll-ns { overflow: scroll; }
@@ -40,7 +47,7 @@
   .overflow-y-auto-ns { overflow-y: auto; }
 }
 
-@media (--breakpoint-medium) {
+@media #{$breakpoint-medium} {
   .overflow-visible-m { overflow: visible; }
   .overflow-hidden-m { overflow: hidden; }
   .overflow-scroll-m { overflow: scroll; }
@@ -57,7 +64,7 @@
   .overflow-y-auto-m { overflow-y: auto; }
 }
 
-@media (--breakpoint-large) {
+@media #{$breakpoint-large} {
   .overflow-visible-l { overflow: visible; }
   .overflow-hidden-l { overflow: hidden; }
   .overflow-scroll-l { overflow: scroll; }

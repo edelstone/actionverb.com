@@ -1,3 +1,10 @@
+
+// Converted Variables
+
+
+// Custom Media Query Variables
+
+
 /*
 
    VISIBILITY
@@ -22,7 +29,7 @@
   clip: rect(1px, 1px, 1px, 1px);
 }
 
-@media (--breakpoint-not-small) {
+@media #{$breakpoint-not-small} {
   .clip-ns {
     position: fixed !important;
     _position: absolute !important;
@@ -31,7 +38,7 @@
   }
 }
 
-@media (--breakpoint-medium) {
+@media #{$breakpoint-medium} {
   .clip-m {
     position: fixed !important;
     _position: absolute !important;
@@ -40,7 +47,7 @@
   }
 }
 
-@media (--breakpoint-large) {
+@media #{$breakpoint-large} {
   .clip-l {
     position: fixed !important;
     _position: absolute !important;
