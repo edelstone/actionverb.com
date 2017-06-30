@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>{{ page.title }}</title>
+    <meta name="author" content="">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/tachyons.css">
+  </head>
+  <body class="sans-serif">
+
+    <header class="bg-red pa25 bb b--black-20 bw2">
+      <div class="header-wrapper mw8 cf center dt w-100">
+        <div class="logo dtc v-mid tl">
+          <a class="dib mw4 mt1 animate hover-rotate" href="/">
+            <img src="images/av-logo.svg" alt="Action Verb" />
+          </a>
+        </div>
+        <div class="menu dtc v-mid tr white">
+          <button class="bb bw1 b--black-20 tr br2 hamburger hamburger--slider bg-animate bg-black-20 hover-bg-black-30" type="button" aria-label="Menu" aria-controls="navigation">
+            <span class="hamburger-box v-mid">
+              <span class="hamburger-inner"></span>
+            </span>
+            <span class="hamburger-label b pl2 v-mid ttu tracked">Menu</span>
+          </button>
+        </div>
+        <div id="navigation" class="nav dn">
+          <nav>
+            <a href="/core-beliefs">Our Core Beliefs</a>
+            <a href="/holacracy">Our Holacracy Practice</a>
+            <a href="/open-book-management">Open Book Management</a>
+            <a href="/working-at-action-verb">Working At Action Verb</a>
+            <a href="/now-hiring">Open Positions: We're Hiring</a>
+            <a href="/interview-prep">Interview Preparation</a>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <div class="content pa3 lh-copy">
+      <div class="content-wrapper center mw8">
+        {{ content }}
+      </div>
+    </div>
+
+  </body>
+</html>
