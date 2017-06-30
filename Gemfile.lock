@@ -40,7 +40,6 @@ GEM
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.24)
-    tachyons-rails (4.7.0)
 
 PLATFORMS
   ruby
@@ -49,7 +48,6 @@ DEPENDENCIES
   jekyll (= 3.5.0)
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
-  tachyons-rails
   tzinfo-data
 
 BUNDLED WITH
