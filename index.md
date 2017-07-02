@@ -3,20 +3,18 @@ layout: default
 title: Secure and Performant Infrastructure-as-a-Service
 ---
 
-## We're Action Verb
+<h2>We're Action Verb.</h2>
 
-We build Platforms and Infrastructure that Engineering and Marketing
-professionals use to power their products and services.
-
-Our products include <a href="https://brickftp.com/">BrickFTP</a> and
+We build platforms and infrastructure that engineering and marketing
+professionals use to power their products and services. Our products include <a href="https://brickftp.com/">BrickFTP</a> and
 <a href="https://vaeplatform.com/">Vae Platform</a>.
 
 Our company consists of 7 full time USA-based Engineers,
-as well as sales and support outposts in France, Germany, and Latin
+as well as sales and support outposts in the U.S., Germany, and Latin
 America.
 
 **Our infrastructure platforms are used by over 2,000 enterprises and
-SMBs**, including Mozilla, Canonical, UPS, DirecTV, GoPro, Marriott, and
+small businesses**, including Mozilla, Canonical, UPS, DirecTV, GoPro, Marriott, and
 more.
 
 
