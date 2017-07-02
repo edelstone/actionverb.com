@@ -3558,7 +3558,7 @@ img {
 
 */
 .sans-serif {
-  font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif; }
+  font-family: 'Avenir W01', -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif; }
 
 .serif {
   font-family: georgia, times, serif; }
@@ -3608,6 +3608,9 @@ code, .code {
 
 .space {
   font-family: 'Space Mono', sans-serif; }
+
+.avenir {
+  font-family: 'Avenir W01'; }
 
 /*
 
@@ -8721,10 +8724,10 @@ code, .code {
 a {
   color: #cf352c;
   text-decoration: none;
-  border-bottom: 2px solid #cf352c;
+  border-bottom: 4px solid rgba(207, 53, 44, 0.3);
   transition: border .15s ease-out; }
   a:hover {
-    border-color: transparent; }
+    border-color: rgba(207, 53, 44, 0.8); }
 
 .animate {
   transition: all .15s ease-in-out; }
@@ -8736,7 +8739,8 @@ a {
   position: relative;
   width: 100vw;
   left: 50%;
-  margin-left: -50vw; }
+  margin-left: -50vw;
+  z-index: -1; }
 
 .bg-image {
   background-image: url(../images/infrastructure.jpg); }
