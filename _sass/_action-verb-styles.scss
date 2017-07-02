@@ -5,13 +5,7 @@
 // Custom Media Query Variables
 
 
-/*
-
-  STYLES
-
-  Add custom styles here.
-
-*/
+/* Custom AV styles and Tachyons overrides */
 
 a {
   color: $red;
@@ -19,9 +13,13 @@ a {
   border-bottom: 4px solid $red-20;
 }
 
-.animate { transition: all .15s ease-in-out; }
+.animate {
+  transition: all .15s ease-in-out;
+}
 
-.hover-rotate:hover { transform: rotate(2deg); }
+.hover-rotate:hover {
+  transform: rotate(2deg);
+}
 
 .overflow-mw {
   position: relative;

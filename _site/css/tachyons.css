@@ -8717,13 +8717,7 @@ code, .code {
   color: #96ccff;
   transition: color .15s ease-in; }
 
-/*
-
-  STYLES
-
-  Add custom styles here.
-
-*/
+/* Custom AV styles and Tachyons overrides */
 a {
   color: #cf352c;
   text-decoration: none;
