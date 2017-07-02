@@ -47,6 +47,10 @@
   .hamburger-inner::after {
     bottom: -10px; }
 
+.hamburger:focus {
+  outline: 1px dashed $white-40;
+}
+
 /*
    * 3DX
    */

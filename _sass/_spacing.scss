@@ -4,6 +4,7 @@
 $spacing-none: 0 !default;
 $spacing-extra-small: .25rem !default;
 $spacing-small: .5rem !default;
+$spacing-sm-md: .85rem !default;
 $spacing-medium: 1rem !default;
 $spacing-large: 2rem !default;
 $spacing-extra-large: 4rem !default;
@@ -54,6 +55,7 @@ $spacing-extra-extra-extra-large: 16rem !default;
 .pa0 { padding: $spacing-none; }
 .pa1 { padding: $spacing-extra-small; }
 .pa2 { padding: $spacing-small; }
+.pa25 { padding: $spacing-sm-md; }
 .pa3 { padding: $spacing-medium; }
 .pa4 { padding: $spacing-large; }
 .pa5 { padding: $spacing-extra-large; }
@@ -953,4 +955,3 @@ $spacing-extra-extra-extra-large: 16rem !default;
     margin-right: $spacing-extra-extra-extra-large;
   }
 }
-

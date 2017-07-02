@@ -4,15 +4,15 @@ function toggleItem(elem) {
       var current = this;
       for (var i = 0; i < elem.length; i++) {
         if (current != elem[i]) {
-          elem[i].classList.remove('active');
-        } else if (current.classList.contains('active') === true) {
-          current.classList.remove('active');
+          elem[i].classList.remove('is-active');
+        } else if (current.classList.contains('is-active') === true) {
+          current.classList.remove('is-active');
         } else {
-          current.classList.add('active')
+          current.classList.add('is-active')
         }
       }
       e.preventDefault();
     });
   };
 }
-toggleItem(document.querySelectorAll('.menu'));
+toggleItem(document.querySelectorAll('.hamburger'));

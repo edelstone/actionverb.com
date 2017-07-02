@@ -11,8 +11,8 @@
    Docs: http://tachyons.io/docs/themes/skins/
 
    Classes for setting foreground and background colors on elements.
-   If you haven't declared a border color, but set border on an element, it will 
-   be set to the current text color. 
+   If you haven't declared a border color, but set border on an element, it will
+   be set to the current text color.
 
 */
 
@@ -98,6 +98,19 @@
 .bg-white-20 {        background-color: $white-20; }
 .bg-white-10 {        background-color: $white-10; }
 
+.bg-dark-brown-97 {         background-color: $dark-brown-97; }
+.bg-dark-brown-95 {         background-color: $dark-brown-95; }
+.bg-dark-brown-90 {         background-color: $dark-brown-90; }
+.bg-dark-brown-80 {         background-color: $dark-brown-80; }
+.bg-dark-brown-70 {         background-color: $dark-brown-70; }
+.bg-dark-brown-60 {         background-color: $dark-brown-60; }
+.bg-dark-brown-50 {         background-color: $dark-brown-50; }
+.bg-dark-brown-40 {         background-color: $dark-brown-40; }
+.bg-dark-brown-30 {         background-color: $dark-brown-30; }
+.bg-dark-brown-20 {         background-color: $dark-brown-20; }
+.bg-dark-brown-10 {         background-color: $dark-brown-10; }
+.bg-dark-brown-05 {         background-color: $dark-brown-05; }
+
 
 
 /* Background colors */
@@ -141,3 +154,5 @@
 .bg-washed-yellow { background-color: $washed-yellow; }
 .bg-washed-red { background-color: $washed-red; }
 .bg-inherit { background-color: inherit; }
+
+.bg-dark-brown { background-color: #221f1f; }

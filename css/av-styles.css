@@ -1,0 +1,18 @@
+.animate {
+  transition: all .15s ease-in-out;
+  }
+
+.hover-rotate:hover {
+  transform: rotate(2deg);
+}
+
+.overflow-mw {
+  position: relative;
+  width: 100vw;
+  left: 50%;
+  margin-left: -50vw;
+}
+
+.bg-image {
+  background-image: url(../images/infrastructure.jpg);
+}

@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Action Verb – Secure and Performant Infrastructure-as-a-Service
+title: Secure and Performant Infrastructure-as-a-Service
 ---
 
-# Secure and Performant Infrastructure-as-a-Service
-
-We're Action Verb.
+## We're Action Verb
 
 We build Platforms and Infrastructure that Engineering and Marketing
 professionals use to power their products and services.
@@ -52,25 +50,23 @@ descriptions are regularly updated via small iterations.**  As their
 interests change and our needs change, the roles that are filled change
 dynamically over time.
 
-<div class="quote">&quot;Most startups believe in iteration of their
-products. Now they need to apply the same thinking to their
-organizations.&quot;<br />&ndash; Adam Pisoni, Yammer co-founder & CTO</div>
+> Most startups believe in iteration of their products. Now they need to apply the same thinking to their organizations. -Adam Pisoni, Yammer co-founder & CTO
 
-[Learn more about our Holacracy practice.](/holacracy)
+[Learn more about our Holacracy practice](/holacracy).
 
 We also practice Open Book Management, meaning that we share the exact
 details of our Balance Sheet and P&L Statement with our entire team in
 real-time, ensuring that **our staff has the data they need to treat the
 business as if it were their own.**
 
-[Learn more about Open Book Management.](/open-book-management)
+[Learn more about Open Book Management](/open-book-management).
 
 
 ## Working at Action Verb
 
 Does working at Action Verb sound like it could be for you?
 
-[Learn about Working at Action Verb.](/working-at-action-verb)
+[Learn about Working at Action Verb](/working-at-action-verb).
 
 
 ## Contact Us
