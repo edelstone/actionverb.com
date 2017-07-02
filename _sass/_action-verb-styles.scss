@@ -16,30 +16,18 @@
 a {
   color: $red;
   text-decoration: none;
-  border-bottom: 4px solid $red-30;
-  transition: border .15s ease-out;
-
-  &:hover {
-    border-color: $red-80;
-  }
+  border-bottom: 4px solid $red-20;
 }
 
-.animate {
-  transition: all .15s ease-in-out;
-  }
+.animate { transition: all .15s ease-in-out; }
 
-.hover-rotate:hover {
-  transform: rotate(2deg);
-}
+.hover-rotate:hover { transform: rotate(2deg); }
 
 .overflow-mw {
   position: relative;
   width: 100vw;
   left: 50%;
   margin-left: -50vw;
-  z-index: -1;
 }
 
-.bg-image {
-  background-image: url(../images/infrastructure.jpg);
-}
+.bg-image-1 { background-image: url(../images/infrastructure.jpg); }
