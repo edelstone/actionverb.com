@@ -1,16 +1,50 @@
-
-// Converted Variables
-
-
-// Custom Media Query Variables
-
-
 /* Custom AV styles and Tachyons overrides */
+::selection {
+  color: $white-90;
+  background: $red-90;
+}
 
 a {
   color: $red;
   text-decoration: none;
-  border-bottom: 4px solid $red-20;
+  border: 1px solid $transparent;
+  border-bottom-color: $red-20;
+  transition: all .15s ease-in-out;
+  &:hover,
+  &:focus {
+    border-color: $red-20;
+    background: $red-10;
+  }
+}
+
+.nav {
+  visibility: hidden;
+  opacity: 0;
+  transition: all .3s ease;
+  a {
+    color: $washed-yellow;
+    text-shadow: 1px 1px 0 $dark-red;
+    &:hover,
+    &:focus {
+      background: $transparent;
+      text-decoration: underline;
+    }
+  }
+
+  .nav-wrapper {
+    top: 0.8rem;
+    opacity: 0;
+    transition: all .3s ease .2s;
+  }
+}
+
+.nav.visible {
+  visibility: visible;
+  opacity: 1;
+  .nav-wrapper {
+    opacity: 1;
+    top: 0;
+  }
 }
 
 .animate {

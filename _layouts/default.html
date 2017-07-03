@@ -14,37 +14,47 @@
 
   <body class="sans-serif bg-dark-brown-10">
 
-    <header class="bg-red pa25 ph3 shadow-4">
+    <header class="bg-red pa25 ph3">
       <div class="header-wrapper mw8 cf center dt w-100">
         <div class="logo dtc v-mid tl">
-          <a class="dib mw4 animate hover-rotate bn" href="/">
-            <img src="images/av-logo.svg" alt="Action Verb" />
+          <a class="dib mw35 animate hover-rotate" href="/">
+            <img src="images/av-logo-yellow.svg" alt="Action Verb" />
           </a>
         </div>
-        <div class="menu dtc v-mid tr white">
-          <button class="tr br2 hamburger hamburger--slider bg-animate hover-bg-black-10" type="button" aria-label="Menu" aria-controls="navigation">
+        <div class="menu dtc v-mid tr washed-yellow">
+          <button class="tr br2 hamburger hamburger--3dy bg-animate hover-bg-black-10" type="button" aria-label="Menu" aria-controls="navigation">
             <span class="hamburger-box v-mid">
               <span class="hamburger-inner"></span>
             </span>
-            <span class="hamburger-label b pl2 v-mid ttu tracked">Menu</span>
+            <span class="hamburger-label b pl3 v-mid ttu tracked">Menu</span>
           </button>
-        </div>
-        <div id="navigation" class="nav dn">
-          <nav>
-            <a href="/core-beliefs">Our Core Beliefs</a>
-            <a href="/holacracy">Our Holacracy Practice</a>
-            <a href="/ope-book-management">Open Book Management</a>
-            <a href="/working-at-action-verb">Working At Action Verb</a>
-            <a href="/now-hiring">Open Positions: We're Hiring</a>
-            <a href="/interview-prep">Interview Preparation</a>
-          </nav>
         </div>
       </div>
     </header>
 
+    <div id="navigation" class="nav absolute left-0 right-0 ph3 tc gradient-red z-1 shadow-6">
+      <div class="nav-wrapper relative mw8 center f2-ns f3 b pb4">
+        <nav>
+          <a class="db bn pv3-ns pv2 mb3" href="/core-beliefs">Our Core Beliefs</a>
+          <a class="db bn pv3-ns pv2 mv3" href="/holacracy">Our Holacracy Practice</a>
+          <a class="db bn pv3-ns pv2 mv3" href="/open-book-management">Open Book Management</a>
+          <a class="db bn pv3-ns pv2 mv3" href="/working-at-action-verb">Working at Action Verb</a>
+          <a class="db bn pv3-ns pv2 mv3" href="/interview-prep">Interview Preparation</a>
+          <a class="db bn pv3-ns pv2 mv3 i" href="/now-hiring">Open Positions: We're Hiring!</a>
+        </nav>
+      </div>
+    </div>
+
     <section class="content pa3 pt0 lh-copy">
       <div class="content-wrapper center mw8">
+        <div class="{{ page.header-class }} feature-head overflow-mw tc cover bg-center">
+          <div class="feature-head-wrapper bg-dark-brown-95 pv4 pv5-l ph3">
+            <h1 class="lh-title mw8 center white-90 space f1-l f2">{{ page.title }}</h1>
+          </div>
+        </div>
+        <div class="sub-content pt3 f4">
           {{ content }}
+        </div>
       </div>
     </section>
 
@@ -59,6 +69,7 @@
       </div>
     </footer>
 
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script src="js/main.js"></script>
 
   </body>
