@@ -1,4 +1,5 @@
 /* Custom AV styles and Tachyons overrides */
+
 ::selection {
   color: $white-90;
   background: $red-90;
@@ -110,8 +111,16 @@ h2 {
   transition: all .15s ease-in-out;
 }
 
+.no-transition {
+  transition: none;
+}
+
 .hover-rotate:hover {
   transform: rotate(2deg);
+}
+
+.lines {
+  background: repeating-linear-gradient(0deg, $dark-brown, $dark-brown 1px, $dark-brown-90 1px, $dark-brown-90 2px);
 }
 
 .overflow-mw {
