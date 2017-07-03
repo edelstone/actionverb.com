@@ -4,6 +4,7 @@
   background: $red-90;
 }
 
+// Some elements, (links, H2s, etc) are very common in the markup, so I'm hesitantly assigning some basic styles here to avoid excessive repetition with Tachyons labels. -MWE
 a {
   color: $red;
   text-decoration: none;
@@ -17,13 +18,38 @@ a {
   }
 }
 
+h2 {
+  line-height: 1.25;
+  color: $dark-red;
+  margin: 2rem 0 0 0;
+}
+
+// buttons
+.page-btn {
+  border: 1px solid $red;
+  border-radius: 3rem;
+  padding: 0.6rem 1.5rem;
+  display: inline-block;
+  text-align: center;
+
+  &:hover,
+  &:focus {
+    border: 1px solid $red;
+    background: $red;
+    color: $white-90;
+  }
+}
+
+// main navigation
 .nav {
   visibility: hidden;
   opacity: 0;
   transition: all .3s ease;
+
   a {
     color: $washed-yellow;
     text-shadow: 1px 1px 0 $dark-red;
+
     &:hover,
     &:focus {
       background: $transparent;
@@ -32,21 +58,51 @@ a {
   }
 
   .nav-wrapper {
-    top: 0.8rem;
+    top: 1rem;
     opacity: 0;
     transition: all .3s ease .2s;
   }
-}
 
-.nav.visible {
-  visibility: visible;
-  opacity: 1;
-  .nav-wrapper {
+  &.visible {
+    visibility: visible;
     opacity: 1;
-    top: 0;
+
+    .nav-wrapper {
+      opacity: 1;
+      top: 0;
+    }
   }
+
 }
 
+// footer
+.footer {
+
+  a {
+    color: $white-60;
+    border: none;
+
+    &:hover,
+    &:focus {
+      color: $white-90;
+      background: $transparent;
+    }
+  }
+
+  .footer-logo {
+    a {
+      filter: grayscale(1) brightness(2);
+
+      &:hover,
+      &:focus {
+        filter: none;
+      }
+    }
+  }
+
+}
+
+// all-purpose, reusable styles
 .animate {
   transition: all .15s ease-in-out;
 }
@@ -62,4 +118,5 @@ a {
   margin-left: -50vw;
 }
 
-.bg-image-1 { background-image: url(../images/infrastructure.jpg); }
+// hero banner images
+.hero-1 { background-image: url(../images/infrastructure.jpg); }
