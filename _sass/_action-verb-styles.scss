@@ -46,21 +46,11 @@ h2 {
   opacity: 0;
   transition: all .3s ease;
 
-  a {
-    color: $washed-yellow;
-    text-shadow: 1px 1px 0 $dark-red;
-
-    &:hover,
-    &:focus {
-      background: $transparent;
-      text-decoration: underline;
-    }
-  }
-
   .nav-wrapper {
     top: 1rem;
     opacity: 0;
-    transition: all .3s ease .2s;
+    left: -9999px;
+    transition: top .3s ease .2s, opacity .3s ease .2s;
   }
 
   &.visible {
@@ -70,6 +60,19 @@ h2 {
     .nav-wrapper {
       opacity: 1;
       top: 0;
+      left: 0;
+    }
+  }
+
+  // nav links
+  a {
+    color: $washed-yellow;
+    text-shadow: 1px 1px 0 $dark-red;
+
+    &:hover,
+    &:focus {
+      background: $transparent;
+      text-decoration: underline;
     }
   }
 
