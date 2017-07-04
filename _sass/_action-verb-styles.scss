@@ -5,7 +5,12 @@
   background: $red-90;
 }
 
-// Some elements, (links, H2s, etc) are very common in the markup, so I'm hesitantly assigning some basic styles here to avoid excessive repetition with Tachyons labels. -MWE
+::-moz-selection {
+  color: $white-90;
+  background: $red-90;
+}
+
+// Some elements are very common in the markup, so I'm assigning some basic styles here to avoid excessive repetition with Tachyons labels
 a {
   color: $red;
   text-decoration: none;
@@ -119,10 +124,11 @@ h2 {
   transform: rotate(2deg);
 }
 
-.lines {
-  background: repeating-linear-gradient(0deg, $dark-brown, $dark-brown 1px, $dark-brown-80 2px, $dark-brown-80 2px);
+.screen {
+  background: repeating-linear-gradient(0deg, $dark-brown, $dark-brown 1px, $dark-brown-70 2px);
 }
 
+// this style permits overflowing of previously set max-widths, for full-width banding purposes
 .overflow-mw {
   position: relative;
   width: 100vw;
@@ -130,5 +136,5 @@ h2 {
   margin-left: -50vw;
 }
 
-// hero banner images
+// heros/banners/mastheads - whatever you want to call them
 .hero-1 { background-image: url(../images/infrastructure.jpg); }
