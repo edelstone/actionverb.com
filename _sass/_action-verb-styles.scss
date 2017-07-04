@@ -77,6 +77,15 @@ h2 {
     }
   }
 
+  .image-link {
+    opacity: .6;
+
+    &:hover,
+    &:focus {
+      opacity: .9;
+    }
+  }
+
   .footer-logo {
     a {
       filter: grayscale(1) brightness(2);
