@@ -1,14 +1,7 @@
 /* Custom AV styles and Tachyons overrides */
 
-::selection {
-  color: $white-90;
-  background: $red-90;
-}
-
-::-moz-selection {
-  color: $white-90;
-  background: $red-90;
-}
+::selection { color: $white-90; background: $red-90;}
+::-moz-selection { color: $white-90; background: $red-90;}
 
 // Some elements are very common in the markup, so I'm assigning some basic styles here to avoid excessive repetition with Tachyons labels
 a {
@@ -28,22 +21,6 @@ h2 {
   line-height: 1.25;
   color: $dark-red;
   margin: 2rem 0 0 0;
-}
-
-// buttons
-.page-btn {
-  border: 1px solid $red;
-  border-radius: 3rem;
-  padding: 0.6rem 1.5rem;
-  display: inline-block;
-  text-align: center;
-
-  &:hover,
-  &:focus {
-    border: 1px solid $red;
-    background: $red;
-    color: $white-90;
-  }
 }
 
 // main navigation
@@ -108,10 +85,24 @@ h2 {
       }
     }
   }
-
 }
 
 // all-purpose, reusable styles
+.page-btn {
+  border: 1px solid $red;
+  border-radius: 3rem;
+  padding: 0.6rem 1.5rem;
+  display: inline-block;
+  text-align: center;
+
+  &:hover,
+  &:focus {
+    border: 1px solid $red;
+    background: $red;
+    color: $washed-yellow;
+  }
+}
+
 .animate {
   transition: all .15s ease-in-out;
 }
@@ -128,7 +119,7 @@ h2 {
   background: repeating-linear-gradient(0deg, $dark-brown, $dark-brown 1px, $dark-brown-70 2px);
 }
 
-// this style permits overflowing of previously set max-widths, for full-width banding purposes
+// permits overflowing of previously set max-widths, for full-width banding
 .overflow-mw {
   position: relative;
   width: 100vw;
@@ -138,3 +129,7 @@ h2 {
 
 // heros/banners/mastheads - whatever you want to call them
 .hero-1 { background-image: url(../images/infrastructure.jpg); }
+
+// accessibility
+a.offscreen {position: absolute; left: -1000px; top: -1000px; width: 1px; height: 1px; overflow: hidden; transition: none;}
+a.offscreen:focus, a.offscreen:active, a.offscreen:hover {position: absolute; left: 0; top: 0; width: 100%; height: auto; overflow: visible; color: $washed-yellow; background-color: $dark-brown; z-index: 1;}

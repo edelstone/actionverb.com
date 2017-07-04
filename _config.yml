@@ -28,7 +28,6 @@ github_username:  jekyll
 markdown: kramdown
 plugins:
   - jekyll-minifier
-
 livereload: true
 
 # Exclude from processing.

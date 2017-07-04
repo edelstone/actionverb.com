@@ -7,11 +7,15 @@
     <meta name="author" content="">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon-precomposed" href="images/touch.png">
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/main.css">
   </head>
 
-  <body class="sans-serif bg-dark-brown-10">
+  <body class="sans-serif bg-dark-brown-05">
+
+    <a href="#main-content" class="offscreen f3 tc b pa3 lh-copy">Skip to content</a>
 
     <header class="bg-red pa25 ph3">
       <div class="header-wrapper mw8 cf center dt w-100">
@@ -51,7 +55,7 @@
             <h1 class="lh-title mw8 center white-90 space f1-l f2 break-word">{{ page.title }}</h1>
           </div>
         </div>
-        <div class="sub-content pv0 pv2-ns f5 f4-ns">
+        <div id="main-content" class="sub-content pv0 pv2-ns f5 f4-ns">
           {{ content }}
         </div>
       </div>
