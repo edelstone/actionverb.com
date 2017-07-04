@@ -27,11 +27,12 @@ h2 {
 .nav {
   visibility: hidden;
   opacity: 0;
-  transition: all .3s ease;
+  left: -9999px;
+  transition: opacity .3s ease, visibility .3s ease;
 
   .nav-wrapper {
-    top: 1rem;
     opacity: 0;
+    top: 1rem;
     left: -9999px;
     transition: top .3s ease .2s, opacity .3s ease .2s;
   }
@@ -39,6 +40,7 @@ h2 {
   &.visible {
     visibility: visible;
     opacity: 1;
+    left: 0;
 
     .nav-wrapper {
       opacity: 1;
@@ -116,7 +118,7 @@ h2 {
 }
 
 .screen {
-  background: repeating-linear-gradient(0deg, $dark-brown, $dark-brown 1px, $dark-brown-70 2px);
+  background: repeating-linear-gradient(0deg, $dark-brown, $dark-brown 1px, $dark-brown-80 1px, $dark-brown-80 2px);
 }
 
 // permits overflowing of previously set max-widths, for full-width banding
