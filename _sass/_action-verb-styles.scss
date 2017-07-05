@@ -21,6 +21,11 @@ h2 {
   line-height: 1.25;
   color: $dark-red;
   margin: 2rem 0 0 0;
+  font-weight: 900;
+}
+
+ul {
+  padding-left: 1em;
 }
 
 ul li, ol li {
@@ -57,6 +62,7 @@ ul li, ol li {
   a {
     color: $washed-yellow;
     text-shadow: 1px 1px 0 $dark-red;
+    font-weight: 900;
 
     &:hover,
     &:focus {
@@ -145,6 +151,10 @@ ul li, ol li {
 .hero-1 { background-image: url(../images/infrastructure.jpg); }
 .hero-2 { background-image: url(../images/circles.jpg); }
 .hero-3 { background-image: url(../images/code.jpg); }
+.hero-4 { background-image: url(../images/stats.jpg); }
+.hero-5 { background-image: url(../images/working.jpg); }
+.hero-6 { background-image: url(../images/suit.jpg); }
+.hero-7 { background-image: url(../images/hands.jpg); }
 
 // accessibility
 a.offscreen {position: absolute; left: -1000px; top: -1000px; width: 1px; height: 1px; overflow: hidden; transition: none;}
