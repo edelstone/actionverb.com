@@ -17,7 +17,6 @@ gem "jekyll", "3.5.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem 'jekyll-livereload'
-   gem 'jekyll-minifier'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

@@ -1,7 +1,7 @@
 /* Custom AV styles and Tachyons overrides */
 
-::selection { color: $white-90; background: $red-90;}
-::-moz-selection { color: $white-90; background: $red-90;}
+::selection { color: $washed-yellow; background: $red-90;}
+::-moz-selection { color: $washed-yellow; background: $red-90;}
 
 // Some elements are very common in the markup, so I'm assigning some basic styles here to avoid excessive repetition with Tachyons labels
 a {
@@ -102,13 +102,12 @@ h2 {
 .page-btn {
   border: 1px solid $red;
   border-radius: 3rem;
-  padding: 0.6rem 1.5rem;
+  padding: 0.6rem 1.5rem 0.5rem;
   display: inline-block;
   text-align: center;
 
   &:hover,
   &:focus {
-    border: 1px solid $red;
     background: $red;
     color: $washed-yellow;
   }
@@ -127,7 +126,7 @@ h2 {
 }
 
 .screen {
-  background: repeating-linear-gradient(0deg, $dark-brown, $dark-brown 1px, $dark-brown-80 1px, $dark-brown-80 2px);
+  background: repeating-linear-gradient(0deg, $dark-brown, $dark-brown 1px, $dark-brown-90 1px, $dark-brown-90 2px);
 }
 
 // permits overflowing of previously set max-widths, for full-width banding
@@ -140,6 +139,7 @@ h2 {
 
 // heros/banners/mastheads - whatever you want to call them
 .hero-1 { background-image: url(../images/infrastructure.jpg); }
+.hero-2 { background-image: url(../images/circles.jpg); }
 
 // accessibility
 a.offscreen {position: absolute; left: -1000px; top: -1000px; width: 1px; height: 1px; overflow: hidden; transition: none;}
