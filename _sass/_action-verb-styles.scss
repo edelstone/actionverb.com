@@ -23,6 +23,10 @@ h2 {
   margin: 2rem 0 0 0;
 }
 
+ul li, ol li {
+  margin-bottom: 1rem;
+}
+
 // main navigation
 .nav {
   visibility: hidden;
@@ -140,6 +144,7 @@ h2 {
 // heros/banners/mastheads - whatever you want to call them
 .hero-1 { background-image: url(../images/infrastructure.jpg); }
 .hero-2 { background-image: url(../images/circles.jpg); }
+.hero-3 { background-image: url(../images/code.jpg); }
 
 // accessibility
 a.offscreen {position: absolute; left: -1000px; top: -1000px; width: 1px; height: 1px; overflow: hidden; transition: none;}
