@@ -24,6 +24,12 @@ h2 {
   font-weight: 900;
 }
 
+h3 {
+  font-weight: 900;
+  color: $dark-brown;
+  margin: 2rem 0 0 0;
+}
+
 ul {
   padding-left: 1em;
 }
@@ -148,13 +154,13 @@ ul li, ol li {
 }
 
 // heros/banners/mastheads - whatever you want to call them
-.hero-1 { background-image: url(../images/infrastructure.jpg); }
-.hero-2 { background-image: url(../images/circles.jpg); }
-.hero-3 { background-image: url(../images/code.jpg); }
-.hero-4 { background-image: url(../images/stats.jpg); }
-.hero-5 { background-image: url(../images/working.jpg); }
-.hero-6 { background-image: url(../images/suit.jpg); }
-.hero-7 { background-image: url(../images/hands.jpg); }
+.hero-1 { background-image: url(../images/hero-infrastructure.jpg); }
+.hero-2 { background-image: url(../images/hero-circles.jpg); }
+.hero-3 { background-image: url(../images/hero-code.jpg); }
+.hero-4 { background-image: url(../images/hero-stats.jpg); }
+.hero-5 { background-image: url(../images/hero-working.jpg); }
+.hero-6 { background-image: url(../images/hero-suit.jpg); }
+.hero-7 { background-image: url(../images/hero-sign.jpg); }
 
 // accessibility
 a.offscreen {position: absolute; left: -1000px; top: -1000px; width: 1px; height: 1px; overflow: hidden; transition: none;}
