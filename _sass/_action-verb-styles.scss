@@ -142,7 +142,7 @@ ul li, ol li {
 }
 
 .screen {
-  background: repeating-linear-gradient(0deg, $dark-brown, $dark-brown 1px, $dark-brown-90 1px, $dark-brown-90 2px);
+  background: repeating-linear-gradient(0deg, $dark-brown-97, $dark-brown-97 1px, $dark-brown-85 1px, $dark-brown-85 3px);
 }
 
 // permits overflowing of previously set max-widths, for full-width banding
@@ -153,15 +153,26 @@ ul li, ol li {
   margin-left: -50vw;
 }
 
-// heros/banners/mastheads - whatever you want to call them
-.hero-1 { background-image: url(../images/hero-infrastructure.jpg); }
+// hero banners
+.hero-1 { background-image: url(../images/hero-roads.jpg); }
+// hero-roads: https://unsplash.com/photos/_QoAuZGAoPY
+// hero-roads-old: https://unsplash.com/photos/7nrsVjvALnA
 .hero-2 { background-image: url(../images/hero-circles.jpg); }
+// hero-circles: https://unsplash.com/photos/UJ2LuAVO8dY
 .hero-3 { background-image: url(../images/hero-code.jpg); }
+// hero-code: https://unsplash.com/photos/8OyKWQgBsKQ
 .hero-4 { background-image: url(../images/hero-stats.jpg); }
+// hero-stats: https://unsplash.com/photos/hpjSkU2UYSU
 .hero-5 { background-image: url(../images/hero-working.jpg); }
+// hero-working: https://unsplash.com/photos/73OZYNjVoNI
 .hero-6 { background-image: url(../images/hero-suit.jpg); }
+// hero-suit: https://unsplash.com/photos/Sx7H6AwwsXw
 .hero-7 { background-image: url(../images/hero-sign.jpg); }
+// hero-sign: https://unsplash.com/photos/fY8Jr4iuPQM
 .hero-8 { background-image: url(../images/hero-lock.jpg); }
+// hero-lock: https://unsplash.com/photos/8yYAaguVDgY
+.hero-9 { background-image: url(../images/hero-map.jpg); }
+// hero-map: https://unsplash.com/photos/t11oyf1K8kA
 
 // accessibility
 a.offscreen {position: absolute; left: -1000px; top: -1000px; width: 1px; height: 1px; overflow: hidden; transition: none;}
