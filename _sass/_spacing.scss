@@ -7,6 +7,7 @@ $spacing-small: .5rem !default;
 $spacing-sm-md: .85rem !default;
 $spacing-medium: 1rem !default;
 $spacing-large: 2rem !default;
+$spacing-larger: 2.5rem !default;
 $spacing-extra-large: 4rem !default;
 $spacing-extra-extra-large: 8rem !default;
 $spacing-extra-extra-extra-large: 16rem !default;
@@ -213,6 +214,7 @@ $spacing-extra-extra-extra-large: 16rem !default;
 .mt2  {  margin-top: $spacing-small; }
 .mt3  {  margin-top: $spacing-medium; }
 .mt4  {  margin-top: $spacing-large; }
+.mt45  {  margin-top: $spacing-larger; }
 .mt5  {  margin-top: $spacing-extra-large; }
 .mt6 {  margin-top: $spacing-extra-extra-large; }
 .mt7 { margin-top: $spacing-extra-extra-extra-large; }
@@ -435,6 +437,7 @@ $spacing-extra-extra-extra-large: 16rem !default;
   .mt2-ns  {  margin-top: $spacing-small; }
   .mt3-ns  {  margin-top: $spacing-medium; }
   .mt4-ns  {  margin-top: $spacing-large; }
+  .mt45-ns  {  margin-top: $spacing-larger; }
   .mt5-ns  {  margin-top: $spacing-extra-large; }
   .mt6-ns {  margin-top: $spacing-extra-extra-large; }
   .mt7-ns { margin-top: $spacing-extra-extra-extra-large; }

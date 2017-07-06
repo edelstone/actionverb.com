@@ -4,7 +4,7 @@ title: Action Verb, LLC Master Privacy Policy
 hero-class: hero-8
 ---
 
-## Our Committment
+## Our Commitment
 
 We recognize that your data is very personal and sensitive. This privacy policy explains our commitment to protecting your privacy, with regard to your use of any Action Verb, LLC website or service.
 

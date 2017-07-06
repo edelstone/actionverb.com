@@ -3,7 +3,7 @@
 ::selection { color: $washed-yellow; background: $red-90;}
 ::-moz-selection { color: $washed-yellow; background: $red-90;}
 
-// Some elements are very common in the markup, so I'm assigning some basic styles here to avoid excessive repetition with Tachyons labels
+// Some elements are very common in the markup/markdown, so I'm assigning some basic styles here to avoid excessive repetition with Tachyons labels
 a {
   color: $red;
   text-decoration: none;
@@ -22,11 +22,19 @@ h2 {
   color: $dark-red;
   margin: 2rem 0 0 0;
   font-weight: 900;
+
+  @media #{$breakpoint-not-small} {
+    margin-top: 2.5rem;
+  }
 }
 
 h3 {
   color: $dark-brown;
   margin: 2rem 0 0 0;
+
+  @media #{$breakpoint-not-small} {
+    margin-top: 2.5rem;
+  }
 }
 
 ul {
