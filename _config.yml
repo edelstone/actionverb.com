@@ -10,7 +10,6 @@ url: https://www.actionverb.com
 
 # Build settings
 markdown: kramdown
-plugins:
 livereload: true
 
 # Exclude from processing.
