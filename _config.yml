@@ -1,0 +1,25 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Secure and Performant Infrastructure-as-a-Service
+email: hello@actionverb.com
+description: We're Action Verb. We build platforms and infrastructure that engineers and marketing professionals use to power their services. Our products include BrickFTP and Vae Platform.
+url: https://www.actionverb.com
+
+# Build settings
+markdown: kramdown
+livereload: true
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

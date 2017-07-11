@@ -1,0 +1,186 @@
+/* Custom AV styles and Tachyons overrides */
+
+::selection { color: $washed-yellow; background: $red-90;}
+::-moz-selection { color: $washed-yellow; background: $red-90;}
+
+// Some elements are very common in the markup/markdown, so I'm assigning some basic styles here to avoid excessive repetition with Tachyons labels
+a {
+  color: $red;
+  text-decoration: none;
+  border: 1px solid $transparent;
+  border-bottom-color: $red-20;
+  transition: all .15s ease-in-out;
+  &:hover,
+  &:focus {
+    border-color: $red-20;
+    background: $red-10;
+  }
+}
+
+h2 {
+  line-height: 1.25;
+  color: $dark-red;
+  margin: 2rem 0 0 0;
+  font-weight: 900;
+
+  @media #{$breakpoint-not-small} {
+    margin-top: 2.5rem;
+  }
+}
+
+h3 {
+  color: $dark-brown;
+  margin: 2rem 0 0 0;
+
+  @media #{$breakpoint-not-small} {
+    margin-top: 2.5rem;
+  }
+}
+
+ul {
+  padding-left: 1em;
+}
+
+ul li, ol li {
+  margin-bottom: 1rem;
+}
+
+// main navigation
+.nav {
+  visibility: hidden;
+  opacity: 0;
+  left: -9999px;
+  transition: opacity .3s ease, visibility .3s ease;
+
+  .nav-wrapper {
+    opacity: 0;
+    top: 1rem;
+    left: -9999px;
+    transition: top .3s ease .2s, opacity .3s ease .2s;
+  }
+
+  &.visible {
+    visibility: visible;
+    opacity: 1;
+    left: 0;
+
+    .nav-wrapper {
+      opacity: 1;
+      top: 0;
+      left: 0;
+    }
+  }
+
+  // nav links
+  a {
+    color: $washed-yellow;
+    text-shadow: 1px 1px 0 $dark-red;
+    font-weight: 900;
+
+    &:hover,
+    &:focus {
+      background: $transparent;
+      text-decoration: underline;
+    }
+  }
+
+}
+
+// footer
+.footer {
+
+  a {
+    color: $white-60;
+    border: none;
+
+    &:hover,
+    &:focus {
+      color: $white-90;
+      background: $transparent;
+    }
+  }
+
+  .image-link {
+    opacity: .6;
+
+    &:hover,
+    &:focus {
+      opacity: .9;
+    }
+  }
+
+  .footer-logo {
+    a {
+      filter: grayscale(1) brightness(2);
+
+      &:hover,
+      &:focus {
+        filter: none;
+      }
+    }
+  }
+}
+
+// all-purpose, reusable styles
+.page-btn {
+  border: 1px solid $red;
+  border-radius: 3rem;
+  padding: 0.6rem 1.5rem 0.5rem;
+  display: inline-block;
+  text-align: center;
+
+  &:hover,
+  &:focus {
+    background: $red;
+    color: $washed-yellow;
+  }
+}
+
+.animate {
+  transition: all .15s ease-in-out;
+}
+
+.no-transition {
+  transition: none;
+}
+
+.hover-rotate:hover {
+  transform: rotate(2deg);
+}
+
+.screen {
+  background: repeating-linear-gradient(0deg, $dark-brown-97, $dark-brown-97 1px, $dark-brown-85 1px, $dark-brown-85 2px);
+}
+
+// permits overflowing of previously set max-widths, for full-width banding
+.overflow-mw {
+  position: relative;
+  width: 100vw;
+  left: 50%;
+  margin-left: -50vw;
+}
+
+// hero banners
+.hero-1 { background-image: url(../images/hero-roads.jpg); }
+// hero-roads: https://unsplash.com/photos/_QoAuZGAoPY
+// hero-roads-old: https://unsplash.com/photos/7nrsVjvALnA
+.hero-2 { background-image: url(../images/hero-circles.jpg); }
+// hero-circles: https://unsplash.com/photos/UJ2LuAVO8dY
+.hero-3 { background-image: url(../images/hero-code.jpg); }
+// hero-code: https://unsplash.com/photos/8OyKWQgBsKQ
+.hero-4 { background-image: url(../images/hero-stats.jpg); }
+// hero-stats: https://unsplash.com/photos/hpjSkU2UYSU
+.hero-5 { background-image: url(../images/hero-working.jpg); }
+// hero-working: https://unsplash.com/photos/73OZYNjVoNI
+.hero-6 { background-image: url(../images/hero-suit.jpg); }
+// hero-suit: https://unsplash.com/photos/Sx7H6AwwsXw
+.hero-7 { background-image: url(../images/hero-sign.jpg); }
+// hero-sign: https://unsplash.com/photos/fY8Jr4iuPQM
+.hero-8 { background-image: url(../images/hero-lock.jpg); }
+// hero-lock: https://unsplash.com/photos/8yYAaguVDgY
+.hero-9 { background-image: url(../images/hero-map.jpg); }
+// hero-map: https://unsplash.com/photos/t11oyf1K8kA
+
+// accessibility
+a.offscreen {position: absolute; left: -1000px; top: -1000px; width: 1px; height: 1px; overflow: hidden; transition: none;}
+a.offscreen:focus, a.offscreen:active, a.offscreen:hover {position: absolute; left: 0; top: 0; width: 100%; height: auto; overflow: visible; color: $washed-yellow; background-color: $dark-brown; z-index: 1;}
