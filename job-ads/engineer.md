@@ -50,8 +50,6 @@ dynamically over time.
 products. Now they need to apply the same thinking to their
 organizations.&quot;<br />&ndash; Adam Pisoni, Yammer co-founder & CTO*
 
-[Learn more about our Holacracy practice.](https://actionverb.com/holacracy)
-
 Holacracy is not unstructured: you'll have a clear understanding of
 your current roles and responsibilities, as well as a set of rules and
 processes for changing those roles and responsibilities in real time.
@@ -65,8 +63,6 @@ We also practice Open Book Management, meaning that we share the exact
 details of our Balance Sheet and P&L Statement with our entire team in
 real-time, ensuring that **our staff has the data they need to treat the
 business as if it were their own.**
-
-[Learn more about Open Book Management.](https://actionverb.com/open-book-management)
 
 **Our team members work from home and choose their own hours**, allowing
 them to make time for family, recreation, vacations, or anything that is
@@ -84,32 +80,6 @@ quarterly meetings that are hosted all over the country.
 We try to do these meetings in cities that are fun to visit.  In the
 last few years, we've been to Austin, Orlando, Minneapolis, San Diego, Las
 Vegas, New York City, and Detroit.
-
-As you might expect from a company that is so open, we also post our
-salary information right here in the job post.
-**We will pay you $100,000 in your first year, plus a great benefits
-package, and a $2,500 signing bonus to purchase a new computer.**
-
-After your first year with Action Verb, we will update your salary based
-on the value that you have been able to demonstrate for the company.
-We continue to update salary levels every year.  It is possible to reach a
-pay level of double the starting salary if you come in and absolutely crush it.
-
-We fully pay for your health insurance (exact plan details depend on
-your state of residence), and we'll pick
-up the tab for 50% of your spouse or family if they wish to also join
-the healthcare plan.  We want your family to be healthy.
-
-We recognize that other companies may offer higher initial salary offers
-or signing bonuses, but at Action Verb, **we know that for our ideal
-candidate, the exact level of pay is just one criteria by which they
-choose where to work.**  Our goal is to offer the greatest work
-environment possible and pay people well enough to make it possible for
-them to join the team.  Come learn our way of working, take on as many
-roles as you can, and establish yourself as a valuable asset to us.
-Then after your first year, we'll re-evaluate your salary and make sure
-it's more than fair, given the value you've been able to generate for
-the company.
 
 **We are looking for candidates who bring the following skills to the
 table:**
@@ -180,7 +150,49 @@ rotation and all engineers speak to customers.
 our own toughest critics and we put all of our products through their
 paces every day.
 
-**Tell us about what you believe.** We only read cover letters in our first screening round, so make sure
+As you might expect from a company that is so open, we also post our
+salary information right here in the job post.
+**We will pay you $100,000 in your first year, plus a great benefits
+package, and a $2,500 signing bonus to purchase a new computer.**
+
+After your first year with Action Verb, we will update your salary based
+on the value that you have been able to demonstrate for the company.
+We continue to update salary levels every year.  It is possible to reach a
+pay level of double the starting salary if you come in and absolutely crush it.
+
+We fully pay for your health insurance (exact plan details depend on
+your state of residence), and we'll pick
+up the tab for 50% of your spouse or family if they wish to also join
+the healthcare plan.  We want your family to be healthy.
+
+We recognize that other companies may offer higher initial salary offers
+or signing bonuses, but at Action Verb, **we know that for our ideal
+candidate, the exact level of pay is just one criteria by which they
+choose where to work.**  Our goal is to offer the greatest work
+environment possible and pay people well enough to make it possible for
+them to join the team.  Come learn our way of working, take on as many
+roles as you can, and establish yourself as a valuable asset to us.
+Then after your first year, we'll re-evaluate your salary and make sure
+it's more than fair, given the value you've been able to generate for
+the company.
+
+Plus, you can join Action Verb Risk Free because of our $7,500
+Quitting Bonus Within Your First 90 Days.
+
+We get it.  Holacracy is new.  Working remote is hard.  We love these
+things about our culture, but you might not be sure if you do.  Or maybe
+you just don't trust us that we really do embody the Core Beliefs on
+this webpage.  To our prospects who may be on the fence about joining
+Action Verb, we want to make one more offer to push you over the edge
+and convince you to join us.
+
+If you don't like working at Action Verb for any reason, quit within the
+first 90 days and receive a $7,500 quitting bonus.  That should be
+enough to keep you and your family afloat while you decide on your next
+path.  We hope that you won't take us up on the offer, but we want you
+to feel good knowing that it's there.
+
+**Ready To Apply?** We only read cover letters in our first screening round, so make sure
 yours counts.  In your cover letter, we'd like you to address the
 following topics:
 
