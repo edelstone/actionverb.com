@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Part-Time In-House Counsel
+title: In-House Counsel
 hero-class: hero-6
 ---
 
-## Part-Time In-House Counsel For Holacracy-Powered 12-Person All-Remote SaaS Company
+## In-House Counsel For Holacracy-Powered 12-Person All-Remote SaaS Company
 
 Hi!  We're Action Verb.
 
