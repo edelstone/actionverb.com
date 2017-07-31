@@ -43,6 +43,20 @@ Start Jekyll server
 You can now access the site at [http://localhost:4000](http://localhost:4000/).
 
 
+## Styles
+
+### Design System
+
+The Action Verb website uses the [Tachyons design system](http://tachyons.io/docs/), which is a lightweight, mostly un-opinionated, and modular CSS system. We used the [Sass repo](https://github.com/tachyons-css/tachyons-sass) for this project.
+
+### Brand standards
+
+See [the Action Verb wiki](https://github.com/actionverb/wiki/wiki/Brand-Standards#action-verb-company-branding) for a breakdown of the basic brand elements used across the site.
+
+### Accessibility
+
+All colors should meet [WCAG 2.0 contrast ratios, AA compliance](https://www.w3.org/TR/2008/REC-WCAG20-20081211/#visual-audio-contrast-contrast), which is at least 4.5:1 for text smaller than 18pt and 3:1 for text larger than 18pt. [Check color contrast](http://leaverou.github.io/contrast-ratio/) when making color choices. Additionally, all links should be keyboard tab-friendly.
+
 ## Deployment
 
 Content pushed to the `master` branch on Github will be deployed automatically.

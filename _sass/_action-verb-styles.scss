@@ -90,28 +90,28 @@ ul li, ol li {
 .footer {
 
   a {
-    color: $white-60;
+    color: $white-80;
     border: none;
 
     &:hover,
     &:focus {
-      color: $white-90;
+      color: $white;
       background: $transparent;
     }
   }
 
   .image-link {
-    opacity: .6;
+    opacity: .8;
 
     &:hover,
     &:focus {
-      opacity: .9;
+      opacity: 1;
     }
   }
 
   .footer-logo {
     a {
-      filter: grayscale(1) brightness(2);
+      filter: grayscale(1) brightness(2.4);
 
       &:hover,
       &:focus {
@@ -180,6 +180,8 @@ ul li, ol li {
 // hero-lock: https://unsplash.com/photos/8yYAaguVDgY
 .hero-9 { background-image: url(../images/hero-map.jpg); }
 // hero-map: https://unsplash.com/photos/t11oyf1K8kA
+.hero-10 { background-image: url(../images/hero-pencils.jpg); }
+// hero-pencils: https://unsplash.com/photos/0S9ePdJG6Og
 
 // accessibility
 a.offscreen {position: absolute; left: -1000px; top: -1000px; width: 1px; height: 1px; overflow: hidden; transition: none;}
