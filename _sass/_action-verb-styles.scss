@@ -1,7 +1,7 @@
 /* Custom AV styles and Tachyons overrides */
 
-::selection { color: $washed-yellow; background: $red-90;}
-::-moz-selection { color: $washed-yellow; background: $red-90;}
+::selection { color: $cream; background: $red-90;}
+::-moz-selection { color: $cream; background: $red-90;}
 
 // Some elements are very common in the markup/markdown, so I'm assigning some basic styles here to avoid excessive repetition with Tachyons labels
 a {
@@ -73,7 +73,7 @@ ul li, ol li {
 
   // nav links
   a {
-    color: $washed-yellow;
+    color: $cream;
     text-shadow: 1px 1px 0 $dark-red;
     font-weight: 900;
 
@@ -132,7 +132,7 @@ ul li, ol li {
   &:hover,
   &:focus {
     background: $red;
-    color: $washed-yellow;
+    color: $cream;
   }
 }
 
@@ -185,4 +185,4 @@ ul li, ol li {
 
 // accessibility
 a.offscreen {position: absolute; left: -1000px; top: -1000px; width: 1px; height: 1px; overflow: hidden; transition: none;}
-a.offscreen:focus, a.offscreen:active, a.offscreen:hover {position: absolute; left: 0; top: 0; width: 100%; height: auto; overflow: visible; color: $washed-yellow; background-color: $dark-brown; z-index: 1;}
+a.offscreen:focus, a.offscreen:active, a.offscreen:hover {position: absolute; left: 0; top: 0; width: 100%; height: auto; overflow: visible; color: $cream; background-color: $dark-brown; z-index: 1;}
