@@ -1,92 +1,15 @@
 ---
+layout: default
+title: "Now Hiring: B2B SaaS Marketer"
+hero-class: hero-6
 ---
 
-**"VP of Marketing" For Holacracy-Powered 14-Person All-Remote SaaS Company**
+## B2B Marketer For Holacracy-Powered {{ site.team_size }}-Person All-Remote SaaS Company
 
-Hi!  We're Action Verb.
+{% include_relative header.md %}
 
-We build two Infrastructure-as-a-Service Platforms that Engineering and Marketing
-professionals use to power their products and services.
 
-Our products include <a href="https://brickftp.com/" target="_blank">BrickFTP</a>,
-a hosted file sharing service for business, and
-<a href="https://vaeplatform.com/" target="_blank">Vae Platform</a>,
-a unique web hosting platform with an integrated CMS system.
-
-Our company consists of 12 (soon to be 16) full time USA-based staff,
-as well as sales and support outposts in France, Germany, and Latin
-America.
-
-I apologize for the misleading title, beacuse we don't actually use
-titles like Vice President, but that's the type of role we're looking to
-hire for here.  We're looking for someone who can take responsibility
-for the marketing our two SaaS products.
-
-Our infrastructure platforms are used by over 2,000 enterprises and
-SMBs, including Mozilla, Canonical, UPS, DirecTV, GoPro, Marriott, and
-more.
-
-We've been able to achieve the rare combination of high double-digit
-annual growth and industry leading profitability.
-
-We do it by aggressively recruiting the absolute best and brightest
-engineers and structuring our company in a way that makes them want to
-work here forever.
-
-It's easy to say, but exceptionally hard to execute.  Here's how we do
-it.
-
-**We are one of the early adopters of <a href="http://www.holacracy.org/" target="_blank">Holacracy</a>**, a new style
-of running an organization in a self-organizing manner that draws
-inspiration from agile software development and lean manufacturing
-processes.
-
-Rather than hiring people for exactly one job description, we instead
-look to find well rounded team members with skills in software
-engineering, design, marketing, sales, and our other needs who are
-interested in filling multiple roles within the organization.
-
-(That's why we don't actually use titles like "VP".)
-
-**As a self-organizing team, our people have multiple roles and our role
-descriptions are regularly updated via small iterations.**  As their
-interests change and our needs change, the roles people fill change
-dynamically over time.
-
-*&quot;Most startups believe in iteration of their
-products. Now they need to apply the same thinking to their
-organizations.&quot;<br />&ndash; Adam Pisoni, Yammer co-founder & CTO*
-
-Holacracy is not unstructured: you'll have a clear understanding of
-your current roles and responsibilities, as well as a set of rules and
-processes for changing those roles and responsibilities in real time.
-
-Even though Holacracy is a lot to learn, we have a great onboarding
-process and the rest of our team will guide you through your first few
-months.  You'll also have the opportunity to attend a weeklong official
-Holacracy training event at our expense.
-
-We also practice Open Book Management, meaning that we share the exact
-details of our Balance Sheet and P&L Statement with our entire team in
-real-time, ensuring that **our staff has the data they need to treat the
-business as if it were their own.**
-
-**Our team members work from home and choose their own hours**, allowing
-them to make time for family, recreation, vacations, or anything that is
-important to them.
-
-Every team member gets 10 company-wide holidays per year as well as 20
-paid time off days intended to be used for vacations.  Go have fun.
-Don't work all the time.
-
-**Our team members also work hard, are constantly learning, and accomplish
-a ton for the company in the time that they are working.**
-
-Our team spends at least 18 days together face-to-face per year at six
-in-person meetings spread out through the year and hosted all over the country.
-We try to do these meetings in cities that are fun to visit.  In the
-last few years, we've been to Austin, Orlando, Minneapolis, San Diego, Las
-Vegas, New York City, Detroit, and Fort Lauderdale.
+## Skillset Expectations
 
 **This position is for marketers who are hands-on.  This job will not
 involve dealing with any third party agencies.**
@@ -117,6 +40,9 @@ The experience requirements are firm.
 If you have not run a B2B SaaS marketing campaign in the past, do not
 bother applying.  If you have not managed a 7-figure ad budget in the
 past, do not bother applying.
+
+
+## Our Core Beliefs
 
 **We believe that everyone in the company should have coding
 skills.** We want everyone here to be able to take their ideas and
@@ -155,51 +81,17 @@ science.  The process has been well studied and documented.  If you're
 the right candidiate for this job, you'll be well-studied on these
 matters and already know what to do to take our marketing to the next level.
 
-As you might expect from a company that is so open, we also post our
-salary information right here in the job post.
-**We will pay you $100,000 in your first year, plus a great benefits
-package, and a $2,500 signing bonus to purchase a new computer.**
+<p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="/core-beliefs">Read The Rest of our Core Beliefs<span class="pl1">&#8594;</span></a></p>
 
-After your first year with Action Verb, we will update your salary based
-on the value that you have been able to demonstrate for the company.
-We continue to update salary levels every year.  It is possible to reach a
-pay level of double the starting salary if you come in and absolutely crush it.
+{% include_relative pay.md %}
 
-We fully pay for your health insurance (exact plan details depend on
-your state of residence), and we'll pick
-up the tab for 50% of your spouse or family if they wish to also join
-the healthcare plan.  We want your family to be healthy.
+## Ready To Apply?
 
-We recognize that other companies may offer higher initial salary offers
-or signing bonuses, but at Action Verb, **we know that for our ideal
-candidate, the exact level of pay is just one criteria by which they
-choose where to work.**  Our goal is to offer the greatest work
-environment possible and pay people well enough to make it possible for
-them to join the team.  Come learn our way of working, take on as many
-roles as you can, and establish yourself as a valuable asset to us.
-Then after your first year, we'll re-evaluate your salary and make sure
-it's more than fair, given the value you've been able to generate for
-the company.
+Working here isn't for everyone, but if you think it might be for you, **please apply**.
 
-Plus, you can join Action Verb Risk Free because of our $7,500
-Quitting Bonus Within Your First 90 Days.
-
-We get it.  Holacracy is new.  Working remote is hard.  We love these
-things about our culture, but you might not be sure if you do.  Or maybe
-you just don't trust us that we really do embody the Core Beliefs on
-this webpage.  To our prospects who may be on the fence about joining
-Action Verb, we want to make one more offer to push you over the edge
-and convince you to join us.
-
-If you don't like working at Action Verb for any reason, quit within the
-first 90 days and receive a $7,500 quitting bonus.  That should be
-enough to keep you and your family afloat while you decide on your next
-path.  We hope that you won't take us up on the offer, but we want you
-to feel good knowing that it's there.
-
-**Ready To Apply?** We only read cover letters in our first screening round, so make sure
-yours counts.  In your cover letter, we'd like you to address the
-following topics:
+We only read cover letters in our first screening round, so make sure
+yours counts.  The following are topics we'd like to see addressed in
+your cover letter:
 
  * Why does this opportunity specifically appeal to you?
  * How well do you align with Our Core Beliefs?  Is there anything you would add or change?
@@ -211,4 +103,5 @@ following topics:
  * What does a good A/B testing strategy look like?
 
 Apply Here:
-http://actionverb.applytojob.com/apply/Rp1yGctWDi/B2B-SaaS-VP-Of-Marketing
+
+<p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/Rp1yGctWDi/B2B-SaaS-VP-Of-Marketing">Apply Now<span class="pl1">&#8594;</span></a></p>

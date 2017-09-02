@@ -1,50 +1,62 @@
 ---
 layout: default
-title: "Now Hiring: Designers"
+title: "Now Hiring: Sales/Success Engineer"
 hero-class: hero-6
 ---
 
-## UI/UX, Application, and Website Designer For {{ site.team_size }}-Person All-Remote SaaS Company
+## Sales and Customer Success Engineer For Holacracy-Powered {{ site.team_size }}-Person All-Remote SaaS Company
 
 {% include_relative header.md %}
 
-## Design Skills We're Looking For
 
-This position is designed to appeal to designers who are not afraid to
-get their hands dirty writing code.  You will be working on web
-applications, mobile apps, desktop apps, marketing websites, and email.
+## Skillset Expectations
 
 **We are looking for candidates who bring the following skills to the
 table:**
 
- * Experience with web application design, marketing website design, and
-offline (print) design
- * Comprehensive understanding of UI/UX principles
- * Solid web front-end development skills in HTML, CSS, and Javascript.
-Even though we have a great team to help you integrate your designs with
-our applications, in order to be a great application designer, we expect
-that you can implement enough Javascript to make your designs come to
-life (even in a basic way).
- * Experience in interest in both actual application design and marketing
-design.  We want our designers to be able to work on both sides.
- * History designing and supporting actual applications that have seen
-production usage with a large userbase.
+ * Perfect phone demeanor and ability to communicate effectively via the phone.
+ * Perfect grammar and professional tone via email.
+ * Understanding of the technical and engineering aspects of hosting.
+ * Ability to smoothly transition between Sales and Support functions.
+ * Interest in taking on additional roles within the Company and a commitment to growing your capabilities.
 
-**Our best applicants tend to have at least 5 years history** of
-producing marketing websites and web or mobile applications.
+Our hosting products are not your normal run-of-the-mill hosting
+products.  Vae Platform is highly customized CMS hosting (think
+Squarespace or Shopify) and BrickFTP is entirely focused on file sharing
+(think Box.com or Dropbox).  With that said, we still want to see a
+hosting-centric skillset when we hire for Sales/Support Engineer.
 
-We expect to see an extensive portfolio that includes both static
-websites and applications.
+The hosting-related body of knowledge we want you to have includes:
+
+ * TCP/IP and understanding of IP routing
+ * DNS
+ * FTP
+ * HTTP
+ * E-Mail (including IMAP, POP, SMTP)
+ * Firewalls and Ports
+ * SSL/TLS
+ * UNIX or Linux experience
+ * PHP/MySQL or similar coding experience
+
+Most of our best applicants have Computer Science (or similar) degrees
+from a well-regarded university.  **Our best applicants also tend
+to have at least 3-5 years experience** in a position with direct
+responsibility for supporting hosting clients or other servers that
+are used in a production environment.
+
+This position is designed to appeal to engineers who know their stuff
+technically but would rather their time be spent talking to real people
+instead of buried inside a text editor working on code.  We don't expect
+you to be an amazing engineer, but you should see yourself as an
+engineer.
 
 
-## Some of Our Core Beliefs
+## Our Core Beliefs
 
 **We believe that everyone in the company should have programming
-skills.** We want everyone here to be able to take their ideas and
-bring them to life.  For designers, that means you have to be able to
-write code.  It doesn't mean you have to be an expect, but you should at
-least be able to implement intermediate-level jQuery and also work with
-React.
+skills.** Our customers are primarily engineers, and in order to
+relate to them and support our products at the highest possible level,
+we should all be engineers too.
 
 **We believe that allowing and supporting 100% remote work gives us
 access to great people we wouldn't otherwise be able to hire.**  We tend
@@ -85,15 +97,13 @@ Working here isn't for everyone, but if you think it might be for you, **please 
 We only read cover letters in our first screening round, so make sure
 yours counts.  The following are topics we'd like to see addressed in
 your cover letter:
-
  * Why does this opportunity specifically appeal to you?
  * How well do you align with Our Core Beliefs?  Is there anything you would add or change?
  * Why would working remotely for Action Verb change your life for the better?
  * Are you familiar with Holacracy?  Any questions or concerns?
  * What's lacking in your current work arrangement that we could improve?
- * What are your philosophies on design?
- * What does designing great software look like?
+ * What are your philosophies on customer support?
 
-We look forward to reading your letter!
+Apply Here:
 
-<p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/S0OYVR/Designer">Apply Now<span class="pl1">&#8594;</span></a></p>
+<p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/b9YTLViLIw/SupportSales-Engineer">Apply Now<span class="pl1">&#8594;</span></a></p>
