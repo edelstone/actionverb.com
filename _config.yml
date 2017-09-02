@@ -7,6 +7,8 @@ title: Secure and Performant Infrastructure-as-a-Service
 email: hello@actionverb.com
 description: We're Action Verb. We build platforms and infrastructure that engineers and marketing professionals use to power their services. Our products include BrickFTP and Vae Platform.
 url: https://www.actionverb.com
+team_size: 15
+team_future_size: 20
 
 # Build settings
 markdown: kramdown
