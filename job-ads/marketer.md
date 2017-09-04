@@ -49,7 +49,7 @@ skills.** We want everyone here to be able to take their ideas and
 bring them to life.  For a marketer, that means you have to be able to
 buuld webpages.  It doesn't mean you have to be an expert, but you
 should be able to implement a landing page that looks good.  Adding
-Javascript tracking code to a page shouldn't scare you.
+JavaScript tracking code to a page shouldn't scare you.
 
 **We believe that allowing and supporting 100% remote work gives us
 access to great people we wouldn't otherwise be able to hire.**  We tend

@@ -20,10 +20,10 @@ table:**
  * Experience with web application design, marketing website design, and
 offline (print) design
  * Comprehensive understanding of UI/UX principles
- * Solid web front-end development skills in HTML, CSS, and Javascript.
+ * Solid web front-end development skills in HTML, CSS, and JavaScript.
 Even though we have a great team to help you integrate your designs with
 our applications, in order to be a great application designer, we expect
-that you can implement enough Javascript to make your designs come to
+that you can implement enough JavaScript to make your designs come to
 life (even in a basic way).
  * Experience in interest in both actual application design and marketing
 design.  We want our designers to be able to work on both sides.
