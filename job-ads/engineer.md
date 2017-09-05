@@ -14,10 +14,10 @@ hero-class: hero-6
 table:**
 
  * Programming experience in several programming languages.  We are
-particularly interested in Ruby, C++, Java, PHP, and Javascript.
+particularly interested in Ruby, C++, Java, PHP, and JavaScript.
  * Strong Computer Science background and understanding of algorithms and
 data structures.
- * Solid web development skills in HTML, CSS, and Javascript.  Even though
+ * Solid web development skills in HTML, CSS, and JavaScript.  Even though
 we have lots of backend work to keep several people busy, our business
 is so web-facing that we think every engineer should be familiar with
 web technologies.

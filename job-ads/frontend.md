@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Now Hiring: Front-End Engineer (Javascript, HTML5)"
+title: "Now Hiring: Front-End Engineer (JavaScript, HTML5)"
 hero-class: hero-6
 ---
 
-## Frontend-Engineer (Javascript, HTML5) For Holacracy-Powered {{ site.team_size }}-Person All-Remote SaaS Company
+## Frontend-Engineer (JavaScript, HTML5) For Holacracy-Powered {{ site.team_size }}-Person All-Remote SaaS Company
 
 {% include_relative header.md %}
 
@@ -13,7 +13,7 @@ hero-class: hero-6
 **We are looking for candidates who bring the following skills to the
 table:**
 
- * Solid web development frontend skills in Javascript, HTML, and CSS,
+ * Solid web development frontend skills in JavaScript, HTML, and CSS,
 including ES5, JSX, Sass, and React.js.
  * Experience building and delivering React.js applications that have seen
 actual production usage.
@@ -23,7 +23,7 @@ rendered views) is a strong plus.
 expected to design.  We have amazing designers on staff.)
  * Firm understanding of how to write secure frontend code and an awareness
 of common web application security vulnerabilities.
- * Testing and the ability to write unit tests/specs (we use popular Javascript testing
+ * Testing and the ability to write unit tests/specs (we use popular JavaScript testing
 frameworks)
  * Ability to prioritize and make decisions without needing to be
 micromanaged
