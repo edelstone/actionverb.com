@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Now Hiring: Back-end/Full-Stack Engineer"
+title: "Now Hiring: Front-End Engineer (JavaScript, HTML5)"
 hero-class: hero-6
 ---
 
-## Back-end/Full-Stack Engineer (Ruby, Java, C++, and others) For Holacracy-Powered {{ site.team_size }}-Person All-Remote SaaS Company
+## Frontend-Engineer (JavaScript, HTML5) For Holacracy-Powered {{ site.team_size }}-Person All-Remote SaaS Company
 
 {% include_relative header.md %}
 
@@ -13,19 +13,24 @@ hero-class: hero-6
 **We are looking for candidates who bring the following skills to the
 table:**
 
- * Programming experience in several programming languages.  We are
-particularly interested in Ruby, C++, Java, PHP, and JavaScript.
- * Strong Computer Science background and understanding of algorithms and
-data structures.
- * Solid web development skills in HTML, CSS, and JavaScript.  Even though
-we have lots of backend work to keep several people busy, our business
-is so web-facing that we think every engineer should be familiar with
-web technologies.
- * Complete understanding of how to write secure code and an awareness of
-common web application security vulnerabilities.
- * Appreciation for testing and the ability to write specs and unit tests
- * History developing and supporting actual applications that have seen
-production usage with a large userbase.
+ * Solid web development frontend skills in JavaScript, HTML, and CSS,
+including ES5, JSX, Sass, and React.js.
+ * Experience building and delivering React.js applications that have seen
+actual production usage.
+ * Familiarity with building classic Ruby on Rails UIs (server-side
+rendered views) is a strong plus.
+ * A sense of good UX principles (though you will not necessarily be
+expected to design.  We have amazing designers on staff.)
+ * Firm understanding of how to write secure frontend code and an awareness
+of common web application security vulnerabilities.
+ * Testing and the ability to write unit tests/specs (we use popular JavaScript testing
+frameworks)
+ * Ability to prioritize and make decisions without needing to be
+micromanaged
+ * History developing actual SaaS applications that have seen production
+usage with real customers.
+ * Truly interested in giving our customers a great experience and able to
+communicate directly with customers and prospects
 
 Most of our best applicants have Computer Science (or similar) degrees
 from a well-regarded university.  **Our best applicants also tend
@@ -112,5 +117,5 @@ your cover letter:
 
 We look forward to reading your letter!
 
-<p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/XewrZe/Systems-Engineer">Apply Now<span class="pl1">&#8594;</span></a></p>
+<p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/IwjSeIR7FO/Front-End-Engineer">Apply Now<span class="pl1">&#8594;</span></a></p>
 
