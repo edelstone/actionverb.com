@@ -25,7 +25,7 @@ Even though we have a great team to help you integrate your designs with
 our applications, in order to be a great application designer, we expect
 that you can implement enough JavaScript to make your designs come to
 life (even in a basic way).
- * Experience in interest in both actual application design and marketing
+ * Experience and interest in both actual application design and marketing
 design.  We want our designers to be able to work on both sides.
  * History designing and supporting actual applications that have seen
 production usage with a large userbase.
@@ -42,7 +42,7 @@ websites and applications.
 **We believe that everyone in the company should have programming
 skills.** We want everyone here to be able to take their ideas and
 bring them to life.  For designers, that means you have to be able to
-write code.  It doesn't mean you have to be an expect, but you should at
+write code.  It doesn't mean you have to be an expert, but you should at
 least be able to implement intermediate-level jQuery and also work with
 React.
 

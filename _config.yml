@@ -3,9 +3,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Secure and Performant Infrastructure-as-a-Service
+title: Secure, Reliable, and Effortless Software
 email: hello@actionverb.com
-description: We're Action Verb. We build platforms and infrastructure that engineers and marketing professionals use to power their services. Our products include BrickFTP and Vae Platform.
+description: We build software platforms that organizations use as essential pieces of their operations. Our products include BrickFTP and Vae Platform, which have over 2,000 enterprises, small businesses, and governmental entities as paying customers.
 url: https://www.actionverb.com
 team_size: 15
 team_future_size: 20
