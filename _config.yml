@@ -8,7 +8,7 @@ email: hello@actionverb.com
 description: We build software platforms that organizations use as essential pieces of their operations. Our products include BrickFTP and Vae Platform, which have over 2,000 enterprises, small businesses, and governmental entities as paying customers.
 url: https://www.actionverb.com
 team_size: 15
-team_future_size: 20
+team_future_size: 19
 
 # Build settings
 markdown: kramdown

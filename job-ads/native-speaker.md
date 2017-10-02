@@ -1,0 +1,124 @@
+---
+layout: default
+title: "Now Hiring: Native Speakers for Translation and Localization of Our Apps"
+hero-class: hero-6
+---
+
+## Language Translator / Foreign Language Speaker For Holacracy-Powered {{ site.team_size }}-Person All-Remote SaaS Company
+
+{% include_relative header-hi.md %}
+
+
+## About The Native Speaker Program
+
+The Native Speaker program is a special job opportunity at Action Verb
+available to bilingual people who speak fluent English, as well as one
+of the following languages:
+
+ * Danish
+ * Dutch
+ * French
+ * Japanese
+ * Italian
+ * Portuguese (Brazil)
+ * Swedish
+
+It is a major plus to live in the main country that speaks your native
+language, and it is required for you to at least be in a similar
+timezone to that country.
+
+
+### Responsibilities
+
+Here are some of the things you'll be doing as a Native Speaker at
+Action Verb:
+
+ * You'll translate our web applications and marketing materials into
+ your native language.
+
+ * You'll answer phone calls and emails from current customers and
+prospects in your native language, working with our Sales and Customer
+Success departments to give the caller the same great service they'd
+have received if they spoke English.
+
+
+### Qualifications
+
+We are looking for candidates who bring the following skills to the
+table:
+
+ * Perfect phone demeanor and ability to communicate effectively via the phone.
+ * Perfect grammar and professional tone via email.
+ * Understanding of the technical and engineering aspects of hosting.
+ * Ability to smoothly transition between Sales and Support functions.
+ * Desire to work in a fast-paced startup environment where if something
+ you need doesn't exist, you are expected to build it!
+
+Our hosting products are not your normal run-of-the-mill hosting
+products.  Vae Platform is highly customized CMS hosting (think
+Squarespace or Shopify) and BrickFTP is entirely focused on file sharing
+(think Box.com or Dropbox).  With that said, we still want to see a
+hosting-centric skillset when we hire for Sales/Support Engineer.
+
+The hosting-related body of knowledge we want you to have includes:
+
+ * TCP/IP and understanding of IP routing
+ * DNS
+ * FTP
+ * HTTP
+ * E-Mail (including IMAP, POP, SMTP)
+ * Firewalls and Ports
+ * SSL/TLS
+ * UNIX or Linux experience
+ * PHP/MySQL or similar coding experience
+
+Most of our best applicants have Computer Science (or similar) degrees
+from a well-regarded university.  **Our best applicants also tend
+to have at least 3-5 years experience** in a position with direct
+responsibility for supporting hosting clients or other servers that
+are used in a production environment.
+
+
+## Some of our Core Beliefs
+
+**We believe that recruiting and hiring top talent is very hard.** Our success depends on finding the best people out there, so we've invested heavily in our recruiting and interviewing processes. Making our next hire even better than the last is one of our highest priorities.
+
+**We believe that allowing and supporting 100% remote work gives us
+access to great people we wouldn't otherwise be able to hire.**  We tend
+to hire folks who are later in their careers, which means they usually
+have their family established somewhere.  By offering remote work, we
+can hire the best people, no matter where they're located.
+
+**We believe that the best way we can acquire top talent is by being an
+amazing place to work.**  Work from home, travel with the team, and
+surround yourself with top tier people at Action Verb.
+
+**We believe in building products that we actually use ourselves.** We are
+our own toughest critics and we put all of our products through their
+paces every day.
+
+<p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="/core-beliefs">Read The Rest of our Core Beliefs<span class="pl1">&#8594;</span></a></p>
+
+## Hours and Pay For This Program
+
+The Native Speaker/Language Translator program at Action Verb is a part
+time commitment.  You will be expected to work 10 hours per week, and
+you will be paid a fixed payment of $500 every two weeks.  Pay is
+transferred directly to your bank account using Transferwise, an
+international payment system.
+
+
+## Ready To Apply?
+
+Working here isn't for everyone, but if you think it might be for you, **please apply**.
+
+We only read cover letters in our first screening round, so make sure
+yours counts.  The following are topics we'd like to see addressed in
+your cover letter:
+
+ * Why does this opportunity specifically appeal to you?
+
+We look forward to reading your letter!
+
+<p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/PY1Bhb3HKh/InHouse-Counsel">Apply Now<span class="pl1">&#8594;</span></a></p>
+
