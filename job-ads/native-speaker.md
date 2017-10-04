@@ -21,6 +21,7 @@ of the following languages:
  * Japanese
  * Italian
  * Portuguese (Brazil)
+ * Russian
  * Swedish
 
 It is a major plus to live in the main country that speaks your native
@@ -41,6 +42,8 @@ prospects in your native language, working with our Sales and Customer
 Success departments to give the caller the same great service they'd
 have received if they spoke English.
 
+ * You'll help us make decisions about targeted advertising and sales in your
+native language with your local knowledge.
 
 ### Qualifications
 
@@ -58,9 +61,10 @@ Our hosting products are not your normal run-of-the-mill hosting
 products.  Vae Platform is highly customized CMS hosting (think
 Squarespace or Shopify) and BrickFTP is entirely focused on file sharing
 (think Box.com or Dropbox).  With that said, we still want to see a
-hosting-centric skillset when we hire for Sales/Support Engineer.
+hosting-centric skillset when we hire for Native Speakers.
 
-The hosting-related body of knowledge we want you to have includes:
+The hosting-related body of knowledge we want you to have or be
+able to learn quickly includes:
 
  * TCP/IP and understanding of IP routing
  * DNS
@@ -77,7 +81,6 @@ from a well-regarded university.  **Our best applicants also tend
 to have at least 3-5 years experience** in a position with direct
 responsibility for supporting hosting clients or other servers that
 are used in a production environment.
-
 
 ## Some of our Core Beliefs
 
@@ -117,8 +120,21 @@ yours counts.  The following are topics we'd like to see addressed in
 your cover letter:
 
  * Why does this opportunity specifically appeal to you?
+ * Why would working remotely for Action Verb change your life for the better?
+ * Are you familiar with Holacracy? Any questions or concerns?
+ * What’s lacking in your current work arrangement that we could improve?
+ * What are your philosophies on customer support?
+ * What do you find most important to get right when doing technical translation?
 
 We look forward to reading your letter!
 
-<p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/PY1Bhb3HKh/InHouse-Counsel">Apply Now<span class="pl1">&#8594;</span></a></p>
+Apply Now For:
 
+ * <a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/L173svr0b6/Danish-Native-Speaker-For-Translation-And-Localization-Of-Our-Apps.html">Danish<span class="pl1">&#8594;</span></a>
+ * <a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/as7bYFRK1m/Dutch-Native-Speaker-For-Translation-And-Localization-Of-Our-Apps.html">Dutch<span class="pl1">&#8594;</span></a>
+ * <a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/V7f6JNXi94/French-Native-Speaker-For-Translation-And-Localization-Of-Our-Apps.html">French<span class="pl1">&#8594;</span></a>
+ * <a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/sf7YpoGaR1/Italian-Native-Speaker-For-Translation-And-Localization-Of-Our-Apps.html">Italian<span class="pl1">&#8594;</span></a>
+ * <a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/PcPp0I23ZE/Japanese-Native-Speaker-For-Translation-And-Localization-Of-Our-Apps.html">Japanese<span class="pl1">&#8594;</span></a>
+ * <a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/lG6vv9Tsk7/Portuguese-Native-Speaker-For-Translation-And-Localization-Of-Our-Apps.html">Portuguese<span class="pl1">&#8594;</span></a>
+ * <a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/jFGaLS8ZsQ/Russian-Native-Speaker-For-Translation-And-Localization-Of-Our-Apps.html">Russian<span class="pl1">&#8594;</span></a>
+ * <a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/uFXSLPCvVe/Swedish-Native-Speaker-For-Translation-And-Localization-Of-Our-Apps.html">Swedish<span class="pl1">&#8594;</span></a>
