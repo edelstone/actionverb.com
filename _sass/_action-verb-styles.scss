@@ -148,10 +148,6 @@ ul li, ol li {
   transform: rotate(2deg);
 }
 
-.screen {
-  background: repeating-linear-gradient(0deg, $dark-brown-97, $dark-brown-97 1px, $dark-brown-85 1px, $dark-brown-85 2px);
-}
-
 // permits overflowing of previously set max-widths, for full-width banding
 .overflow-mw {
   position: relative;
