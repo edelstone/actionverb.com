@@ -56,13 +56,7 @@ science of driving paid traffic.
 
 <p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="/core-beliefs">Read The Rest of our Core Beliefs<span class="pl1">&#8594;</span></a></p>
 
-## Ready To Apply?
-
-Working here isn't for everyone, but if you think it might be for you and you have the required experience, **please apply**.
-
-The link below will take you to our applicant tracking system, which
-asks for a lot of information.  However, the only field we will read at
-first is the box that says "Cover Letter."
+{% include_relative apply.md %}
 
 At Action Verb, we look for results, so our initial screening round
 starts by reviewing your results as a Media Buyer / Paid Traffic

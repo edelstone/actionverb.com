@@ -29,13 +29,7 @@ that have seen production usage with a large userbase.
 
 {% include_relative core-beliefs-eng.md %}
 
-## Ready To Apply?
-
-Working here isn't for everyone, but if you think it might be for you and you have the required experience, **please apply**.
-
-The link below will take you to our applicant tracking system, which
-asks for a lot of information.  However, the only field we will read at
-first is the box that says "Cover Letter."
+{% include_relative apply.md %}
 
 At Action Verb, we look for results, so our initial screening round
 starts by reviewing your previous results as a coder or engineer.  The
