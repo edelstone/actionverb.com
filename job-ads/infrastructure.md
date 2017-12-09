@@ -4,9 +4,31 @@ title: "Now Hiring: DevOps/SysAdmin Engineer (Linux, AWS, Chef, ELK, & more)"
 hero-class: hero-6
 ---
 
-## DevOps/SysAdmin Engineer (Linux, AWS, Chef, ELK, & more) For Holacracy-Powered {{ site.team_size }}-Person All-Remote SaaS Company
+## DevOps/SysAdmin Engineer (Linux, AWS, Chef, ELK, & more) For {{ site.team_size }}-Person All-Remote SaaS Company
 
 {% include_relative header.md %}
+
+### For The Role of Infrastructure (DevOps, SysAdmin) Engineer, We Want To See This Track Record of Results:
+
+* Experience manging large cloud server deployments that have seen real
+production usage.
+* Experience building distributed, failure-resistant architecture, including
+disaster recovery, backups, failover, etc.
+* Experience with the advanced featured of public cloud platforms such
+as AWS or Azure (we use AWS).
+* Significant experience working with GNU/Linux servers, including a
+complete understanding of the command line, /proc, services, etc.
+* Comprehensive understanding of networking concepts, including layers,
+firewalls, DNS, VPN, etc.
+* Proficiency with configuration management tools, such as Chef or
+Puppet, and fluency with at least one major scripting language.
+* Familarity with large scale monitoring and analysis systems, such as
+ELK or Splunk (we use ELK).
+ * Complete understanding of how to build secure infrastructure and an awareness of
+common server security vulnerabilities.
+* Ability to manage a large database at scale (we use MySQL).
+
+{% include_relative pay.md %}
 
 
 ## About Our Network
@@ -16,42 +38,12 @@ Here are some statistics about our network:
  * ~100 servers, mostly hosted on AWS
  * 8 AWS regions, as well as multiple colocated hosting providers
  * Hundreds of public IP addresses
- * 300+ HTTPS requests per second
+ * 500+ HTTPS requests per second
  * 25+ FTP/SFTP/FTPS logins per second
  * 100+ file transfers per second
- * 4,000 log entries per second
+ * 10,000+ log entries per second
  * 150,000+ metrics
  * 99.9% uptime record
-
-
-## Skillset Expectations
-
-**We are looking for candidates who bring the following skills to the
-table:**
-
-* Significant experience working with GNU/Linux servers, including a
-complete understanding of the command line, /proc, services, etc.
-* Comprehensive understanding of networking concepts, including layers,
-firewalls, DNS, VPN, etc.
-* Proficiency with configuration management tools, such as Chef or
-Puppet, and fluency with at least one major scripting language.
-* Experience building distributed, failure-resistant architecture, including
-disaster recovery, backups, failover, etc.
-* Experience with the advanced featured of public cloud platforms such
-as AWS or Azure (we use AWS).
-* Familarity with large scale monitoring and analysis systems, such as
-ELK or Splunk (we use ELK).
- * Complete understanding of how to build secure infrastructure and an awareness of
-common server security vulnerabilities.
-* Ability to manage a large database at scale (we use MySQL).
- * History developing and supporting actual infrastructure that has seen
- production usage at equal to or greater than our scale.  (We talk about
- our size earlier in the post.)
-
-Most of our best applicants have Computer Science (or similar) degrees
-from a well-regarded university.  **Our best applicants also tend
-to have at least 3-5 years experience** in a position with direct
-responsibility for supporting large production deployments.
 
 
 ## Our Core Beliefs
@@ -110,24 +102,34 @@ paces every day.
 
 <p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="/core-beliefs">Read The Rest of our Core Beliefs<span class="pl1">&#8594;</span></a></p>
 
-{% include_relative pay.md %}
-
 ## Ready To Apply?
 
-Working here isn't for everyone, but if you think it might be for you, **please apply**.
+Working here isn't for everyone, but if you think it might be for you and you have the required experience, **please apply**.
 
-We only read cover letters in our first screening round, so make sure
-yours counts.  The following are topics we'd like to see addressed in
-your cover letter:
+The link below will take you to our applicant tracking system, which
+asks for a lot of information.  However, the only field we will read at
+first is the box that says "Cover Letter."
 
- * Why does this opportunity specifically appeal to you?
- * How well do you align with Our Core Beliefs?  Is there anything you would add or change?
- * Why would working remotely for Action Verb change your life for the better?
- * Are you familiar with Holacracy?  Any questions or concerns?
- * What's lacking in your current work arrangement that we could improve?
- * What are your philosophies on devops and operations?
- * What does building a great network and server infrastructure look like?
- * How does "the Cloud" fall short and what typically needs to be
- improved?
+At Action Verb, we look for results, so our initial screening round
+starts by reviewing your previous results as an Infrastructure/Devops
+engineer or systems administrator.
+
+We'd like to to write a cover letter and paste it into that box.  Please make sure
+that it contains all of the following information about your level of experience:
+
+ * What is the largest network you have personally supported in
+ production?  How many servers?  If Cloud based, how many
+ regions/clouds? What automation tools did you rely on
+ to manage such a big network?
+
+ * What is the largest contribution you have made to Open Source
+ Software and are there any repositories that you maintain personally?
+
+You may also want to write about why this opportunity calls to you
+personally and why you see yourself as a good fit for Action Verb.  We
+also love watching Video Cover Letters, so feel free to post a YouTube
+or Vimeo link into the box in lieu of a written letter.
+
+Apply Here:
 
 <p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/cFydMsuRwy/DevOpsSysadm">Apply Now<span class="pl1">&#8594;</span></a></p>in-Engineer

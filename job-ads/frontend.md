@@ -1,42 +1,25 @@
 ---
 layout: default
-title: "Now Hiring: Front-End Engineer (JavaScript, HTML5)"
+title: "Now Hiring: Javascript / Frontend Coder"
 hero-class: hero-6
 ---
 
-## Frontend-Engineer (JavaScript, HTML5) For Holacracy-Powered {{ site.team_size }}-Person All-Remote SaaS Company
+## Javascript/Frontend Coder For {{ site.team_size }}-Person All-Remote SaaS Company
 
 {% include_relative header.md %}
 
-## Skillset Expectations
+### For The Role of Frontend Coder, We Want To See This Track Record of Results:
 
-**We are looking for candidates who bring the following skills to the
-table:**
-
- * Solid web development frontend skills in JavaScript, HTML, and CSS,
-including ES5, JSX, Sass, and React.js.
  * Experience building and delivering React.js applications that have seen
 actual production usage.
- * Familiarity with building classic Ruby on Rails UIs (server-side
-rendered views) is a strong plus.
- * A sense of good UX principles (though you will not necessarily be
-expected to design.  We have amazing designers on staff.)
+ * Solid web development frontend skills in JavaScript, HTML, and CSS,
+including ES5, JSX, Sass, and React.js.
  * Firm understanding of how to write secure frontend code and an awareness
 of common web application security vulnerabilities.
  * Testing and the ability to write unit tests/specs (we use popular JavaScript testing
 frameworks)
- * Ability to prioritize and make decisions without needing to be
-micromanaged
- * History developing actual SaaS applications that have seen production
-usage with real customers.
- * Truly interested in giving our customers a great experience and able to
-communicate directly with customers and prospects
 
-Most of our best applicants have Computer Science (or similar) degrees
-from a well-regarded university.  **Our best applicants also tend
-to have at least 3-5 years experience** in a position with direct
-responsibility for developing and supporting large production
-applications.
+{% include_relative pay.md %}
 
 
 ## Our Core Beliefs
@@ -97,25 +80,39 @@ paces every day.
 
 <p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="/core-beliefs">Read The Rest of our Core Beliefs<span class="pl1">&#8594;</span></a></p>
 
-{% include_relative pay.md %}
-
 ## Ready To Apply?
 
-Working here isn't for everyone, but if you think it might be for you, **please apply**.
+Working here isn't for everyone, but if you think it might be for you and you have the required experience, **please apply**.
 
-We only read cover letters in our first screening round, so make sure
-yours counts.  The following are topics we'd like to see addressed in
-your cover letter:
+The link below will take you to our applicant tracking system, which
+asks for a lot of information.  However, the only field we will read at
+first is the box that says "Cover Letter."
 
- * Why does this opportunity specifically appeal to you?
- * How well do you align with Our Core Beliefs?  Is there anything you would add or change?
- * Why would working remotely for Action Verb change your life for the better?
- * Are you familiar with Holacracy?  Any questions or concerns?
- * What's lacking in your current work arrangement that we could improve?
- * What are your philosophies on software development?
- * What does writing great software look like?
+At Action Verb, we look for results, so our initial screening round
+starts by reviewing your previous results as a coder or engineer.  The
+more you can help us understand that, the better.
 
-We look forward to reading your letter!
+We'd like to to write a cover letter and paste it into that box.  Please make sure
+that it contains all of the following information about your level of experience:
+
+ * What is the largest application you have personally worked on where
+ your code is currently in production?  How many users interact with it
+ and can you share any other information about the scale at which it
+ operates?
+
+ * What is the largest contribution you have made to Open Source
+ Software and are there any repositories that you maintain personally?
+
+ * On a Scale of 1 to 10, please rate your knowledge of Javascript for
+ front-end web development, including a knowledge of the community of
+ libraries, frameworks, etc.
+
+You may also want to write about why this opportunity calls to you
+personally and why you see yourself as a good fit for Action Verb.  We
+also love watching Video Cover Letters, so feel free to post a YouTube
+or Vimeo link into the box in lieu of a written letter.
+
+Apply Here:
 
 <p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/IwjSeIR7FO/Front-End-Engineer">Apply Now<span class="pl1">&#8594;</span></a></p>
 

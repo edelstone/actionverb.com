@@ -1,46 +1,47 @@
 {% include_relative header-hi.md %}
 
-### Our Success Strategy
+### We're Bootstrapped, Profitable, and Growing
 
-We've been able to achieve the rare combination of high double-digit
-annual growth and industry leading profitability.
+Our success comes from building great products and services that are
+loved by our customers, and our growth comes from expanding and
+improving our products as quickly as we can.
 
-We do it by aggressively recruiting the absolute best and brightest
-people and structuring our company in a way that makes them want to
-work here forever.
+Building great products isn't easy and Action Verb just isn't the type
+of place that is okay with mediocrity.  You need great people to build
+great products.
 
-It's easy to say, but exceptionally hard to execute.  Here's how we do
-it.
+So we're on a quest to find the smartest, most creative, and most
+motivated technical people, and create for them an environment in which
+they thrive.
 
 
-### We Practice Holacracy
+### You Will Have Authority, Accountability, and Autonomy
 
-**We are one of the early adopters of <a href="http://www.holacracy.org/" target="_blank">Holacracy</a>**, a new style
-of running an organization in a self-organizing manner that draws
-inspiration from agile software development and lean manufacturing
-processes.
+We use <a href="http://www.holacracy.org/" target="_blank">Holacracy</a>, a
+framework for running self-organizing teams that draws
+inspiration from agile software development and lean manufacturing.
 
-Rather than hiring people for exactly one job description, we instead
-look to find well rounded team members with skills in software
-engineering, design, marketing, sales, and our other needs who are
-interested in filling multiple roles within the organization.
+Our employees don't have a single job description. Instead, you will fill
+many specific, focused roles that have very clear authority and accountabilities.
 
-**As a self-organizing team, our people have multiple roles and our role
-descriptions are regularly updated via small iterations.**  As their
-interests change and our needs change, the roles people fill change
-dynamically over time.
+Some roles are big and some roles are small, but for every role you
+fill, you will be the sole person with authority to make decisions for
+the company.
+
+There are no assistants, subordinates, or committees here.  You will
+knows your authority and accountabilities, and take action.
+
+Roles are created, changed, and removed as our business grows and
+evolves, and the roles you fill as an employee may change often.
 
 *&quot;Most startups believe in iteration of their
 products. Now they need to apply the same thinking to their
 organizations.&quot;<br />&ndash; Adam Pisoni, Yammer co-founder & CTO*
 
-Holacracy is not unstructured: you'll have a clear understanding of
-your current roles and responsibilities, as well as a set of rules and
-processes for changing those roles and responsibilities in real time.
-
-Even though Holacracy is a lot to learn, we have a great onboarding
-process and the rest of our team will guide you through your first few
-months.  You'll also have the opportunity to attend a weeklong official
-Holacracy training event at our expense.
+You will attend a 4-day onboarding course we've designed to teach you the
+in's and out's of how this all works.  By the end of your onboarding,
+you'll be more equipped to get things actually accomplished, deployed,
+and implemented at Action Verb than you have ever been at a previous
+employer.
 
 <p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="/holacracy">More about our Holacracy Practice<span class="pl1">&#8594;</span></a></p>

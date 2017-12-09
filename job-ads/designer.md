@@ -8,33 +8,22 @@ hero-class: hero-6
 
 {% include_relative header.md %}
 
-## Design Skills We're Looking For
+### For The Role of Designer, We Want To See This Track Record of Results:
+
+ * Experience designing and supporting actual web applications that have seen
+production usage with a large userbase.
+ * Comprehensive understanding of UI/UX principles
+ * Able to develop a marketing website from scratch using HTML, CSS, and JavaScript.
 
 This position is designed to appeal to designers who are not afraid to
 get their hands dirty writing code.  You will be working on web
 applications, mobile apps, desktop apps, marketing websites, and email.
 
-**We are looking for candidates who bring the following skills to the
-table:**
-
- * Experience with web application design, marketing website design, and
-offline (print) design
- * Comprehensive understanding of UI/UX principles
- * Solid web front-end development skills in HTML, CSS, and JavaScript.
-Even though we have a great team to help you integrate your designs with
-our applications, in order to be a great application designer, we expect
-that you can implement enough JavaScript to make your designs come to
-life (even in a basic way).
- * Experience and interest in both actual application design and marketing
-design.  We want our designers to be able to work on both sides.
- * History designing and supporting actual applications that have seen
-production usage with a large userbase.
-
-**Our best applicants tend to have at least 5 years history** of
-producing marketing websites and web or mobile applications.
-
 We expect to see an extensive portfolio that includes both static
-websites and applications.
+websites and applications. We want our designers to be able to work on both
+apps and brochure/marketing websites.
+
+{% include_relative pay.md %}
 
 
 ## Some of Our Core Beliefs
@@ -76,24 +65,35 @@ paces every day.
 
 <p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="/core-beliefs">Read The Rest of our Core Beliefs<span class="pl1">&#8594;</span></a></p>
 
-{% include_relative pay.md %}
-
 ## Ready To Apply?
 
-Working here isn't for everyone, but if you think it might be for you, **please apply**.
+Working here isn't for everyone, but if you think it might be for you and you have the required experience, **please apply**.
 
-We only read cover letters in our first screening round, so make sure
-yours counts.  The following are topics we'd like to see addressed in
-your cover letter:
+The link below will take you to our applicant tracking system, which
+asks for a lot of information.  However, the only field we will read at
+first is the box that says "Cover Letter."
 
- * Why does this opportunity specifically appeal to you?
- * How well do you align with Our Core Beliefs?  Is there anything you would add or change?
- * Why would working remotely for Action Verb change your life for the better?
- * Are you familiar with Holacracy?  Any questions or concerns?
- * What's lacking in your current work arrangement that we could improve?
- * What are your philosophies on design?
- * What does designing great software look like?
+At Action Verb, we look for results, so our initial screening round
+starts by reviewing your previous results as a Designer.
 
-We look forward to reading your letter!
+We'd like to to write a cover letter and paste it into that box.  Please make sure
+that it contains all of the following information about your level of experience:
+
+ * What is the largest application you have personally worked on where
+ your design has made it to production?  How many users interacted with
+ it?
+
+ * What is the largest marketing, brochure, or static site you have
+ personally built, and how many visitors have interacted with it?
+
+ * On a Scale of 1 to 10, please rate your HTML, CSS, and Javascript
+ knowledge.
+
+You may also want to write about why this opportunity calls to you
+personally and why you see yourself as a good fit for Action Verb.  We
+also love watching Video Cover Letters, so feel free to post a YouTube
+or Vimeo link into the box in lieu of a written letter.
+
+Apply Here:
 
 <p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/S0OYVR/Designer">Apply Now<span class="pl1">&#8594;</span></a></p>

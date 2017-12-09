@@ -1,25 +1,38 @@
 {% include_relative header-top.md %}
 
-We also practice Open Book Management, meaning that we share the exact
-details of our Balance Sheet and P&L Statement with our entire team in
-real-time, ensuring that **our staff has the data they need to treat the
-business as if it were their own.**
 
-<p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="/open-book-management">More about Open Book Management<span class="pl1">&#8594;</span></a></p>
+### We Are A Remote Company
 
-**Our team members work from home and choose their own hours**, allowing
-them to make time for family, recreation, vacations, or anything that is
-important to them.
+You will work from home and have some flexibility to choose your
+working hours, allowing you to make time for family, recreation,
+vacations, or anything that is important to you.
 
-Every full-time team member gets 10 company-wide holidays per year as well as 20
-paid time off days intended to be used for vacations.  Go have fun.
-Don't work all the time.
+You'll take off 10 company-wide holidays per year as well as 20
+days of PTO for vacations.  Go have fun.  Don't work all the time.
 
-**Our team members also work hard, are constantly learning, and accomplish
-a ton for the company in the time that they are working.**
+Every quarter, you'll travel to an in-person meeting with the entire
+teami to meet and work together face to face.  These meetings are in
+cities that are fun to visit.  In the last few years, we've been to
+Austin, Orlando, Phoenix, San Diego, Las Vegas, New York City,
+and Fort Lauderdale.
 
-Our team spends at least 12 days together face-to-face per year at four
-to six in-person meetings spread out through the year and hosted all over the country.
-We try to do these meetings in cities that are fun to visit.  In the
-last few years, we've been to Austin, Orlando, Minneapolis, San Diego, Las
-Vegas, New York City, Detroit, and Fort Lauderdale.
+
+## Results-Based Hiring
+
+To abuse a sports metaphor, think of Action Verb is as major-league team.
+Just like an NFL or NBA team has a limited number of picks in the
+draft, we only have a small number of slots available for new employees,
+and we want to maximize the chance that the people we draft have the
+highest possible chance of producing results for the team.
+
+So just like getting a job in the NFL, getting a job at Action Verb
+starts with your stats.
+
+When we need to fill a role, we look for people with a track record of
+success filling a similar role.
+
+We do not hire interns, junior staff, or anyone with less than 3
+years of experience directly related to the role.
+
+As a result, at Action Verb, all your co-workers will be major-league
+players, and you will relate to everyone here as a peer.

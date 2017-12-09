@@ -6,13 +6,13 @@ organizations worldwide.
 Our products include <a href="https://brickftp.com/" target="_blank">BrickFTP</a>,
 a hosted file sharing service for business, and
 <a href="https://vaeplatform.com/" target="_blank">Vae Platform</a>,
-a unique web hosting platform with an integrated CMS system.
+a collection of offerings in the hosting and eCommerce space.
 
-Our company consists of {{ site.team_size }} (but growing to {{ site.team_future_size }}
-by the end of the year)
+Our company consists of {{ site.team_size }} (and growing to {{ site.team_future_size }}
+by the end of 2018)
 full time USA-based staff, as well as sales and support outposts in
-France, Germany, and Latin America.
+Europe and Latin America.
 
-Our infrastructure platforms are used by over 2,000 enterprises and
-SMBs, including Mozilla, Canonical, UPS, DirecTV, GoPro, Marriott, and
+Our products and services are used by over 2,000 enterprises and
+SMBs, including Target, Canonical, UPS, Leica, DirecTV, GoPro, Marriott, and
 more.

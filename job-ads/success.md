@@ -1,18 +1,14 @@
 ---
 layout: default
-title: "Now Hiring: Sales/Success Engineer"
+title: "Now Hiring: Customer Success (Support) Engineer"
 hero-class: hero-6
 ---
 
-## Sales and Customer Success Engineer For Holacracy-Powered {{ site.team_size }}-Person All-Remote SaaS Company
+## Customer Success (Support) Engineer For {{ site.team_size }}-Person All-Remote SaaS Company
 
 {% include_relative header.md %}
 
-
-## Skillset Expectations
-
-**We are looking for candidates who bring the following skills to the
-table:**
+### For The Role of Customer Success, We Want To See This Track Record of Results:
 
  * Perfect phone demeanor and ability to communicate effectively via the phone.
  * Perfect grammar and professional tone via email.
@@ -49,6 +45,8 @@ technically but would rather their time be spent talking to real people
 instead of buried inside a text editor working on code.  We don't expect
 you to be an amazing engineer, but you should see yourself as an
 engineer.
+
+{% include_relative pay.md %}
 
 
 ## Our Core Beliefs
@@ -88,21 +86,30 @@ paces every day.
 
 <p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="/core-beliefs">Read The Rest of our Core Beliefs<span class="pl1">&#8594;</span></a></p>
 
-{% include_relative pay.md %}
-
 ## Ready To Apply?
 
-Working here isn't for everyone, but if you think it might be for you, **please apply**.
+Working here isn't for everyone, but if you think it might be for you and you have the required experience, **please apply**.
 
-We only read cover letters in our first screening round, so make sure
-yours counts.  The following are topics we'd like to see addressed in
-your cover letter:
- * Why does this opportunity specifically appeal to you?
- * How well do you align with Our Core Beliefs?  Is there anything you would add or change?
- * Why would working remotely for Action Verb change your life for the better?
- * Are you familiar with Holacracy?  Any questions or concerns?
- * What's lacking in your current work arrangement that we could improve?
- * What are your philosophies on customer support?
+The link below will take you to our applicant tracking system, which
+asks for a lot of information.  However, the only field we will read at
+first is the box that says "Cover Letter."
+
+At Action Verb, we look for results, so our initial screening round
+starts by reviewing your previous results as an Infrastructure/Devops
+engineer or systems administrator.
+
+We'd like to to write a cover letter and paste it into that box.  Please make sure
+that it contains all of the following information about your level of experience:
+
+ * What is your experience with providing support to engineers and
+ business clients?  Please include detailed information about what kind
+ of products you supported and an approximate idea of scale (i.e.
+ averaged 500 interactions per week.)
+
+You may also want to write about why this opportunity calls to you
+personally and why you see yourself as a good fit for Action Verb.  We
+also love watching Video Cover Letters, so feel free to post a YouTube
+or Vimeo link into the box in lieu of a written letter.
 
 Apply Here:
 

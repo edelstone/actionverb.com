@@ -4,7 +4,7 @@ title: "Now Hiring: Native Speakers for Translation and Localization of Our Apps
 hero-class: hero-6
 ---
 
-## Language Translator / Foreign Language Speaker For Holacracy-Powered {{ site.team_size }}-Person All-Remote SaaS Company
+## Language Translator / Foreign Language Speaker For {{ site.team_size }}-Person All-Remote SaaS Company
 
 {% include_relative header-hi.md %}
 
