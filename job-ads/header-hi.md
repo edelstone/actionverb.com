@@ -1,4 +1,4 @@
-Hi!  We're Action Verb.
+### Hi!  We're Action Verb.
 
 We build two Infrastructure-as-a-Service Platforms that empower
 organizations worldwide.
@@ -10,7 +10,7 @@ a collection of offerings in the hosting and eCommerce space.
 
 Our company consists of {{ site.team_size }} (and growing to {{ site.team_future_size }}
 by the end of 2018)
-full time USA-based staff, as well as sales and support outposts in
+full time USA-based remote employees, as well as sales and support outposts in
 Europe and Latin America.
 
 Our products and services are used by over 2,000 enterprises and

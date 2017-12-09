@@ -6,9 +6,7 @@ Our success comes from building great products and services that are
 loved by our customers, and our growth comes from expanding and
 improving our products as quickly as we can.
 
-Building great products isn't easy and Action Verb just isn't the type
-of place that is okay with mediocrity.  You need great people to build
-great products.
+We believe that great products can only be built by great people.
 
 So we're on a quest to find the smartest, most creative, and most
 motivated technical people, and create for them an environment in which
@@ -17,7 +15,7 @@ they thrive.
 
 ### You Will Have Authority, Accountability, and Autonomy
 
-We use <a href="http://www.holacracy.org/" target="_blank">Holacracy</a>, a
+At Action Verb, we run our business using <a href="http://www.holacracy.org/" target="_blank">Holacracy</a>, a
 framework for running self-organizing teams that draws
 inspiration from agile software development and lean manufacturing.
 
@@ -29,7 +27,7 @@ fill, you will be the sole person with authority to make decisions for
 the company.
 
 There are no assistants, subordinates, or committees here.  You will
-knows your authority and accountabilities, and take action.
+know your authority and accountabilities, and take action.
 
 Roles are created, changed, and removed as our business grows and
 evolves, and the roles you fill as an employee may change often.

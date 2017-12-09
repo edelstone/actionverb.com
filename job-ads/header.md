@@ -19,8 +19,8 @@ and Fort Lauderdale.
 
 ## Results-Based Hiring
 
-To abuse a sports metaphor, think of Action Verb is as major-league team.
-Just like an NFL or NBA team has a limited number of picks in the
+Action Verb approaches recruiting like a major-league sports team.
+Just like a team in the NFL or NBA has only a limited number of picks in the
 draft, we only have a small number of slots available for new employees,
 and we want to maximize the chance that the people we draft have the
 highest possible chance of producing results for the team.

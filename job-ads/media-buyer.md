@@ -6,6 +6,11 @@ hero-class: hero-6
 
 ## B2B Media Buyer / PPC / Paid Traffic Manager For {{ site.team_size }}-Person All-Remote SaaS Company
 
+Are you an expert in Adwords, Facebook, and other self-serve paid
+traffic buying platforms?  Do you have experience writing headlines, ad
+copy, landing pages, and funnels?  Have you run $1M+ worth of
+online ads?  If so, we'd like you to learn about Action Verb!
+
 {% include_relative header.md %}
 
 

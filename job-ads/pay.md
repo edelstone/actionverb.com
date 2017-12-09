@@ -2,7 +2,7 @@
 
 Action Verb believes in paying whatever it takes to secure top talent.
 
-**All positions pay at least $100,000 per year, plus a great benefits
+**This position pays at least $100,000 per year, plus a great benefits
 package, and a $2,500 signing bonus to purchase a new computer.**
 
 Based on regular performance reviews, we will regularly update your
