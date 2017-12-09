@@ -25,10 +25,6 @@ to run, which platforms to add.  You will not be micromanaged!
  * Personally managed at least $1 million of online advertising spend via display and search traffic networks, such as Adwords and Facebook.
  * Personally written the headlines and body for ads, landing pages, and funnels, for at least $500,000 worth of advertising spend.
 
-Please stop reading now if these bullets do not describe your
-experience.  We do not make inexperienced hires.  But if they do
-describe your experience, we'd like to speak to you.  Please read on.
-
 {% include_relative pay.md %}
 
 

@@ -1,16 +1,22 @@
+Please stop reading now if these bullets do not describe your
+experience. We do not make inexperienced hires. But if they do describe
+your experience, please read on!
+
 ## Salary and Pay
 
-Action Verb believes in paying whatever it takes to secure top talent.
+Action Verb offers competitive salaries combined with unparalleled
+flexibility and other benefits to secure top talent.
 
-**This position pays at least $100,000 per year, plus a great benefits
-package, and a $2,500 signing bonus to purchase a new computer.**
+This position pays at least $100,000 per year, based on experience and
+track record, plus a great benefits
+package, and a $2,500 signing bonus to purchase a new computer.
 
-Based on regular performance reviews, we will regularly update your
+We will regularly update your
 salary based on the value that you have been able to demonstrate
 for the company.
 
-We fully pay for your health insurance (exact plan details depend on
-your state of residence), and we'll pick
+We fully pay for a health insurance plan (exact plan details depend on
+where you live), and we'll pick
 up the tab for 50% of your spouse or family if they wish to also join
 the healthcare plan.  We want your family to be healthy.
 

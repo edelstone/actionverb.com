@@ -23,10 +23,8 @@ and even what publishing platform to use.  You will not be micromanaged!
 ### For The Role of Content Creator, We're Looking For Someone With This Track Record Of Results:
 
  * Personally written a wide variety of engaging marketing, brochure, or blog-type content in the high-tech or software niche.
-
-Please stop reading now if these bullets do not describe your
-experience.  We do not make inexperienced hires.  But if they do
-describe your experience, we'd like to speak to you.  Please read on.
+ * Personally written case studies and/or whitepapers for the purpose of
+ selling software or other high-tech products.
 
 {% include_relative pay.md %}
 
