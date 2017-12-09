@@ -1,8 +1,8 @@
 There are no assistants, subordinates, or committees here.  You will
 know your authority and accountabilities, and take action.
 
-Roles are created, changed, and removed as our business grows and
-evolves, and the roles you fill as an employee may change often.
+Roles are created, changed, and removed as our business grows, and the
+roles you fill as an employee will evolve over time.
 
 *&quot;Most startups believe in iteration of their
 products. Now they need to apply the same thinking to their
@@ -23,14 +23,13 @@ You will work from home and have some flexibility to choose your
 working hours, allowing you to make time for family, recreation,
 vacations, or anything that is important to you.
 
-You'll take off 10 company-wide holidays per year as well as 20
+You'll take off 11 company-wide holidays per year as well as 20
 days of PTO for vacations.  Go have fun.  Don't work all the time.
 
 Every quarter, you'll travel to an in-person meeting with the entire
 teami to meet and work together face to face.  These meetings are in
 cities that are fun to visit.  In the last few years, we've been to
-Austin, Orlando, Phoenix, San Diego, Las Vegas, New York City,
-and Fort Lauderdale.
+Austin, Orlando, Phoenix, San Diego, Las Vegas, and New York City.
 
 
 ## Results-Based Hiring

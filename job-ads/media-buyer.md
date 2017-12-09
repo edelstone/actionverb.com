@@ -13,7 +13,7 @@ online ads?  If so, we'd like you to learn about Action Verb!
 
 {% include_relative header-1.md %}
 
-For example, as a Paid Traffic Manager or Media Buyer, you'll be doing
+For example, as a Paid Traffic Manager or Media Buyer, you'll be
 making all the decisions yourself:  how much to budget, which campaigns
 to run, which platforms to add.  You will not be micromanaged!
 

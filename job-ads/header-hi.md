@@ -1,9 +1,7 @@
 ### Hi!  We're Action Verb.
 
 We build two Infrastructure-as-a-Service Platforms that empower
-organizations worldwide.
-
-Our products include <a href="https://brickftp.com/" target="_blank">BrickFTP</a>,
+organizations worldwide: <a href="https://brickftp.com/" target="_blank">BrickFTP</a>,
 a hosted file sharing service for business, and
 <a href="https://vaeplatform.com/" target="_blank">Vae Platform</a>,
 a collection of offerings in the hosting and eCommerce space.
