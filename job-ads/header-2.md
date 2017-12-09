@@ -40,14 +40,14 @@ draft, we only have a small number of slots available for new employees,
 and we want to maximize the chance that the people we draft have the
 highest possible chance of producing results for the team.
 
-So just like getting a job in the NFL, getting a job at Action Verb
-starts with your stats.
+To further the sports analogy, getting a job at Action Verb starts with
+your stats.
 
 When we need to fill a role, we look for people with a track record of
 success filling a similar role.
 
-We do not hire interns, junior staff, or anyone with less than 3
-years of experience directly related to the role.
-
-As a result, at Action Verb, all your co-workers will be major-league
-players, and you will relate to everyone here as a peer.
+When we need to fill a role, we look for people with a track record of
+success filling a similar role.  We do not hire interns, junior staff,
+or anyone with less than 3 years of experience directly related to the
+role. As a result, all your co-workers will be major-league players, and
+you will relate to everyone here as a peer.

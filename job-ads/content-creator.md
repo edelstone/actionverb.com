@@ -6,7 +6,17 @@ hero-class: hero-6
 
 ## Marketing Content Creator For {{ site.team_size }}-Person All-Remote Software Company
 
+Are you a technically-minded writer (or a coder with a passion for
+writing) with experience creating marketing content for a technical
+audience?  Have you crafted case studies and whitepapers that have sold
+software products?  If so, we'd like you to learn about Action Verb!
+
 {% include_relative header-1.md %}
+
+For example, as a Marketing Content Creator, you'll be
+making all the decisions yourself:  what to write about, who to feature,
+and even what publishing platform to use.  You will not be micromanaged!
+
 {% include_relative header-2.md %}
 
 

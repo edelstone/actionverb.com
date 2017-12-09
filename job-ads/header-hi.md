@@ -1,4 +1,4 @@
-### Hi!  We're Action Verb.
+### About Action Verb
 
 We build two Infrastructure-as-a-Service Platforms that empower
 organizations worldwide: <a href="https://brickftp.com/" target="_blank">BrickFTP</a>,
