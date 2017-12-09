@@ -6,7 +6,8 @@ hero-class: hero-6
 
 ## Marketing Content Creator For {{ site.team_size }}-Person All-Remote Software Company
 
-{% include_relative header.md %}
+{% include_relative header-1.md %}
+{% include_relative header-2.md %}
 
 
 ### For The Role of Content Creator, We're Looking For Someone With This Track Record Of Results:

@@ -6,7 +6,8 @@ hero-class: hero-6
 
 ## Customer Success (Support) Engineer For {{ site.team_size }}-Person All-Remote SaaS Company
 
-{% include_relative header.md %}
+{% include_relative header-1.md %}
+{% include_relative header-2.md %}
 
 ### For The Role of Customer Success, We Want To See This Track Record of Results:
 

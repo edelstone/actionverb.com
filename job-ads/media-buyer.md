@@ -6,12 +6,18 @@ hero-class: hero-6
 
 ## B2B Media Buyer / PPC / Paid Traffic Manager For {{ site.team_size }}-Person All-Remote SaaS Company
 
-Are you an expert in Adwords, Facebook, and other self-serve paid
+Are you an expert at Adwords, Facebook, and other self-serve paid
 traffic buying platforms?  Do you have experience writing headlines, ad
 copy, landing pages, and funnels?  Have you run $1M+ worth of
 online ads?  If so, we'd like you to learn about Action Verb!
 
-{% include_relative header.md %}
+{% include_relative header-1.md %}
+
+For example, as a Paid Traffic Manager or Media Buyer, you'll be doing
+making all the decisions yourself:  how much to budget, which campaigns
+to run, which platforms to add.  You will not be micromanaged!
+
+{% include_relative header-2.md %}
 
 
 ### For The Role of Media Buyer and PPC Manager, We Want To See This Track Record of Results:

@@ -1,4 +1,20 @@
-{% include_relative header-top.md %}
+There are no assistants, subordinates, or committees here.  You will
+know your authority and accountabilities, and take action.
+
+Roles are created, changed, and removed as our business grows and
+evolves, and the roles you fill as an employee may change often.
+
+*&quot;Most startups believe in iteration of their
+products. Now they need to apply the same thinking to their
+organizations.&quot;<br />&ndash; Adam Pisoni, Yammer co-founder & CTO*
+
+You will attend a 4-day onboarding course we've designed to teach you the
+in's and out's of how this all works.  By the end of your onboarding,
+you'll be more equipped to get things actually accomplished, deployed,
+and implemented at Action Verb than you have ever been at a previous
+employer.
+
+<p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="/holacracy">More about our Holacracy Practice<span class="pl1">&#8594;</span></a></p>
 
 
 ### We Are A Remote Company
