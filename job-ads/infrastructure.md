@@ -108,9 +108,12 @@ products, we want you to release that on GitHub too.  We’ll also pay
 your travel costs to any conference where you can get a speaking gig.
 
 **We believe that our DevOps Engineers are the first line of defense
-when something bad happens.** You will be on call 24/7 (except for your
-20 days per year of vacation) in case there are performance problems in production.
-Fortunately, afterhours callouts are rare for us.
+when something bad happens.** You will be part of an on call rotation
+where you may be called in afterhours in case there are performance problems in production.
+Fortunately, afterhours callouts are rare for us, and there are enough
+members of our Infrastructure team now that the rotation has fairly
+flexible scheduling.  (For example, you are not expected to be on call
+during vacation or PTO.)
 
 **We believe in building products that we actually use ourselves.** We are
 our own toughest critics and we put all of our products through their
