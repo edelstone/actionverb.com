@@ -10,16 +10,21 @@ Have you built and managed large cloud server deployments that have
 seen real production usage?  Are you an expert at automation tools like
 Chef, Consul, Terraform, and Kubernetes?  Does having an amazing logging
 system like Splunk or ELK really get you excited?  If so, we’d like you to
-learn about Action Verb!
+learn about Action Verb.
 
 We're looking to hire more engineers to fill roles on our Infrastructure
 team, which is responsible for keeping our network of 100 cloud servers
 across 8 AWS regions and their associated services running like a well-oiled machine.
 
+You'll be working with our existing deployments of Chef, Ansible, Consul, Terraform,
+ELK, Grafana, Statsd, Asterisk, MySQL, Redis, Memcached, Zeromq, Puma,
+Jenkins, and many other exciting open source systems.  But you'll also
+be free to deploy anything else if it gets the job done!
+
 {% include_relative header-1.md %}
 {% include_relative header-2.md %}
 
-### For The Role of Infrastructure (DevOps, SysAdmin) Engineer, We Want To See This Track Record of Results:
+### For Roles on Our Infrastructure Team, We Want To See This Track Record of Results:
 
 * Experience manging large cloud server deployments that have seen real
 production usage.
@@ -37,7 +42,7 @@ Puppet, and fluency with at least one major scripting language.
 ELK or Splunk (we use ELK).
  * Complete understanding of how to build secure infrastructure and an awareness of
 common server security vulnerabilities.
-* Ability to manage a large database at scale (we use MySQL).
+* History managing a large database at scale (we use MySQL).
 
 {% include_relative pay.md %}
 
