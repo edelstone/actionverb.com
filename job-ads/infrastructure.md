@@ -7,11 +7,14 @@ hero-class: hero-6
 ## DevOps/SysAdmin Engineer (Linux, AWS, Chef, ELK, & more) For {{ site.team_size }}-Person All-Remote SaaS Company
 
 Have you built and managed large cloud server deployments that have
-seen real production usage?
+seen real production usage?  Are you an expert at automation tools like
+Chef, Consul, Terraform, and Kubernetes?  Does having an amazing logging
+system like Splunk or ELK keep you up at night?  If so, we’d like you to
+learn about Action Verb!
 
 We're looking to hire more engineers to fill roles on our Infrastructure
-team, which keeps our network of 100 servers across 8 AWS regions
-running like a well-oiled machine.
+team, which is responsible for keeping our network of 100 cloud servers
+across 8 AWS regions and their associated services running like a well-oiled machine.
 
 {% include_relative header-1.md %}
 {% include_relative header-2.md %}
