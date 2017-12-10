@@ -9,7 +9,7 @@ hero-class: hero-6
 Have you built and managed large cloud server deployments that have
 seen real production usage?  Are you an expert at automation tools like
 Chef, Consul, Terraform, and Kubernetes?  Does having an amazing logging
-system like Splunk or ELK keep you up at night?  If so, we’d like you to
+system like Splunk or ELK really get you excited?  If so, we’d like you to
 learn about Action Verb!
 
 We're looking to hire more engineers to fill roles on our Infrastructure
