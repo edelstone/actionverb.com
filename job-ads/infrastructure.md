@@ -6,6 +6,13 @@ hero-class: hero-6
 
 ## DevOps/SysAdmin Engineer (Linux, AWS, Chef, ELK, & more) For {{ site.team_size }}-Person All-Remote SaaS Company
 
+Have you built and managed large cloud server deployments that have
+seen real production usage?
+
+We're looking to hire more engineers to fill roles on our Infrastructure
+team, which keeps our network of 100 servers across 8 AWS regions
+running like a well-oiled machine.
+
 {% include_relative header-1.md %}
 {% include_relative header-2.md %}
 

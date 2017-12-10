@@ -11,6 +11,11 @@ traffic buying platforms?  Do you have experience writing headlines, ad
 copy, landing pages, and funnels?  Have you run $1M+ worth of
 online ads?  If so, we'd like you to learn about Action Verb!
 
+We're looking to hire someone to manage our internal paid traffic, PPC,
+and display ad campaigns that we run for our products.  You will have
+access to plenty of budget (we'd like to see you spending $100k per month
+as quickly as you can) as long as you can spend it profitably.
+
 {% include_relative header-1.md %}
 
 For example, as a Paid Traffic Manager or Media Buyer, you'll be
