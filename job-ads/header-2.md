@@ -4,12 +4,15 @@ know your authority and accountabilities, and take action.
 Roles are created, changed, and removed as our business grows, and the
 roles you fill as an employee will evolve over time.
 
-*&quot;Most startups believe in iteration of their
-products. Now they need to apply the same thinking to their
-organizations.&quot;<br />&ndash; Adam Pisoni, Yammer co-founder & CTO*
+<div class="pa4 pb3">
+  <blockquote class="ml0 mt0 pl4 bl bw2 b--dark-brown mr0">
+    <p class="f3-ns f4 lh-copy measure mt0 b dark-brown">&ldquo;Most startups believe in iteration of their products. Now they need to apply the same thinking to their organizations.&rdquo;</p>
+    <cite class="f6-ns f7 ttu fs-normal tracked-slight">– Adam Pisoni, Yammer co-founder &amp; CTO</cite>
+  </blockquote>
+</div>
 
 You will attend a 4-day onboarding course we've designed to teach you the
-in's and out's of how this all works.  By the end of your onboarding,
+ins and outs of how this all works.  By the end of your onboarding,
 you'll be more equipped to get things actually accomplished, deployed,
 and implemented at Action Verb than you have ever been at a previous
 employer.
@@ -27,7 +30,7 @@ You'll take off 11 company-wide holidays per year as well as 20
 days of PTO for vacations.  Go have fun.  Don't work all the time.
 
 Every quarter, you'll travel to an in-person meeting with the entire
-teami to meet and work together face to face.  These meetings are in
+team to meet and work together face to face.  These meetings are in
 cities that are fun to visit.  In the last few years, we've been to
 Austin, Orlando, Phoenix, San Diego, Las Vegas, and New York City.
 
@@ -46,8 +49,7 @@ your stats.
 When we need to fill a role, we look for people with a track record of
 success filling a similar role.
 
-When we need to fill a role, we look for people with a track record of
-success filling a similar role.  We do not hire interns, junior staff,
+We do not hire interns, junior staff,
 or anyone with less than 3 years of experience directly related to the
 role. As a result, all your co-workers will be major-league players, and
 you will relate to everyone here as a peer.

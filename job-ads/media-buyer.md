@@ -72,7 +72,7 @@ At Action Verb, we look for results, so our initial screening round
 starts by reviewing your results as a Media Buyer / Paid Traffic
 Manager.
 
-We'd like to to write a cover letter and paste it into that box.  Please make sure
+We'd like you to write a cover letter and paste it into that box.  Please make sure
 that it contains all of the following information about your level of experience:
 
  * How much spend (in dollars) have you personally managed in online media or PPC spend?  Personally managed means that you were the one logging in to Adwords, Facebook, etc. and managing the campaigns yourself.
@@ -83,7 +83,7 @@ that it contains all of the following information about your level of experience
 
 You may also want to write about why this opportunity calls to you
 personally and why you see yourself as a good fit for Action Verb.  We
-also love watching Video Cover Letters, so feel free to post a YouTube
+also love watching video cover letters, so feel free to post a YouTube
 or Vimeo link into the box in lieu of a written letter.
 
 Apply Here:

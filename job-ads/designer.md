@@ -55,7 +55,7 @@ We built our own application deployment system.  We
 self-manage our server environment on Amazon Web Services and custom hardware.
 
 **We believe that engineers should support what they build.** We expect
-our teammates to take responsibilty for the engineering decisions they
+our teammates to take responsibility for the engineering decisions they
 make.  If there are performance problems in production, nobody should
 have to chase anyone down.  All engineers participate in a 24/7 on-call
 rotation and all engineers speak to customers.
@@ -71,7 +71,7 @@ paces every day.
 At Action Verb, we look for results, so our initial screening round
 starts by reviewing your previous results as a Designer.
 
-We'd like to to write a cover letter and paste it into that box.  Please make sure
+We'd like you to write a cover letter and paste it into that box.  Please make sure
 that it contains all of the following information about your level of experience:
 
  * What is the largest application you have personally worked on where
@@ -81,12 +81,12 @@ that it contains all of the following information about your level of experience
  * What is the largest marketing, brochure, or static site you have
  personally built, and how many visitors have interacted with it?
 
- * On a Scale of 1 to 10, please rate your HTML, CSS, and Javascript
+ * On a Scale of 1 to 10, please rate your HTML, CSS, and JavaScript
  knowledge.
 
 You may also want to write about why this opportunity calls to you
 personally and why you see yourself as a good fit for Action Verb.  We
-also love watching Video Cover Letters, so feel free to post a YouTube
+also love watching video cover letters, so feel free to post a YouTube
 or Vimeo link into the box in lieu of a written letter.
 
 Apply Here:

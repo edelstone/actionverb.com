@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Now Hiring: Javascript / Frontend Coder"
+title: "Now Hiring: JavaScript / Frontend Coder"
 hero-class: hero-6
 ---
 
-## Javascript/Frontend Coder For {{ site.team_size }}-Person All-Remote SaaS Company
+## JavaScript/Frontend Coder For {{ site.team_size }}-Person All-Remote SaaS Company
 
 {% include_relative header-1.md %}
 {% include_relative header-2.md %}
@@ -62,7 +62,7 @@ systems. We don’t want to get stuck in the trap of using a language or a
 tool just because "that’s how it’s done around here."
 
 **We believe that engineers should support what they build.** We expect
-our teammates to take responsibilty for the engineering decisions they
+our teammates to take responsibility for the engineering decisions they
 make.  If there are performance problems in production, nobody should
 have to chase anyone down.  All engineers participate in a 24/7 on-call
 rotation and all engineers speak to customers.
@@ -87,7 +87,7 @@ At Action Verb, we look for results, so our initial screening round
 starts by reviewing your previous results as a coder or engineer.  The
 more you can help us understand that, the better.
 
-We'd like to to write a cover letter and paste it into that box.  Please make sure
+We'd like you to write a cover letter and paste it into that box.  Please make sure
 that it contains all of the following information about your level of experience:
 
  * What is the largest application you have personally worked on where
@@ -98,16 +98,15 @@ that it contains all of the following information about your level of experience
  * What is the largest contribution you have made to Open Source
  Software and are there any repositories that you maintain personally?
 
- * On a Scale of 1 to 10, please rate your knowledge of Javascript for
+ * On a Scale of 1 to 10, please rate your knowledge of JavaScript for
  front-end web development, including a knowledge of the community of
  libraries, frameworks, etc.
 
 You may also want to write about why this opportunity calls to you
 personally and why you see yourself as a good fit for Action Verb.  We
-also love watching Video Cover Letters, so feel free to post a YouTube
+also love watching video cover letters, so feel free to post a YouTube
 or Vimeo link into the box in lieu of a written letter.
 
 Apply Here:
 
 <p><a class="page-btn f7 f5-ns ttu tracked-slight mb2" href="http://actionverb.applytojob.com/apply/IwjSeIR7FO/Front-End-Engineer">Apply Now<span class="pl1">&#8594;</span></a></p>
-

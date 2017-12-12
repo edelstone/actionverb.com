@@ -70,7 +70,7 @@ able to learn quickly includes:
  * DNS
  * FTP
  * HTTP
- * E-Mail (including IMAP, POP, SMTP)
+ * Email (including IMAP, POP, SMTP)
  * Firewalls and Ports
  * SSL/TLS
  * UNIX or Linux experience

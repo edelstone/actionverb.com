@@ -37,7 +37,7 @@ systems. We don’t want to get stuck in the trap of using a language or a
 tool just because "that’s how it’s done around here."
 
 **We believe that engineers should support what they build.** We expect
-our teammates to take responsibilty for the engineering decisions they
+our teammates to take responsibility for the engineering decisions they
 make.  If there are performance problems in production, nobody should
 have to chase anyone down.  All engineers participate in a 24/7 on-call
 rotation and all engineers speak to customers.
